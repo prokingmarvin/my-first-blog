@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<data grt_format="2.0">
+  <value _ptr_="0x30b3210" type="list" content-type="object" content-struct-name="db.mgmt.ServerInstance">
+    <value type="object" struct-name="db.mgmt.ServerInstance" id="3062dace-715a-11e7-83ac-080027475b11" struct-checksum="0x367436e2">
+      <link type="object" struct-name="db.mgmt.Connection" key="connection">14312860-715a-11e7-83ac-080027475b11</link>
+      <value _ptr_="0x3354ef0" type="dict" key="loginInfo">
+        <value type="string" key="ssh.hostName"></value>
+        <value type="string" key="ssh.key">~/.ssh/ssh_private_key</value>
+        <value type="string" key="ssh.localPort">3306</value>
+        <value type="int" key="ssh.useKey">0</value>
+        <value type="string" key="ssh.userName">mysql</value>
+      </value>
+      <value _ptr_="0x32be490" type="dict" key="serverInfo">
+        <value type="string" key="basedir">/usr</value>
+        <value type="string" key="datadir">/var/lib/mysql/</value>
+        <value type="string" key="detected_os_name">Linux</value>
+        <value type="string" key="detected_os_type">linux</value>
+        <value type="string" key="detected_os_variant">Ubuntu</value>
+        <value type="string" key="detected_os_version">14.04</value>
+        <value type="string" key="errorLogFilePath">/var/log/mysql/error.log</value>
+        <value type="string" key="generalLogFilePath">/var/lib/mysql/proking-VirtualBox.log</value>
+        <value type="string" key="serverVersion">5.5.57-0ubuntu0.14.04.1</value>
+        <value type="int" key="setupPending">0</value>
+        <value type="string" key="slowLogFilePath">/var/lib/mysql/proking-VirtualBox-slow.log</value>
+        <value type="string" key="sys.config.path">/etc/mysql/my.cnf</value>
+        <value type="string" key="sys.config.section">mysqld</value>
+        <value type="string" key="sys.mysqld.start">/etc/init.d/mysql start</value>
+        <value type="string" key="sys.mysqld.status">ps -C mysqld -o pid=</value>
+        <value type="string" key="sys.mysqld.stop">/etc/init.d/mysql stop</value>
+        <value type="string" key="sys.sudo"></value>
+        <value type="string" key="sys.system">Linux</value>
+        <value type="int" key="sys.usesudo">1</value>
+        <value type="int" key="sys.usesudostatus">0</value>
+      </value>
+      <value type="string" key="name">Conexion</value>
+    </value>
+  </value>
+</data>

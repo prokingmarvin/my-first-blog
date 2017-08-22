@@ -1,0 +1,521 @@
+<!doctype html>
+<html prefix="og: http://ogp.me/ns#" lang="es-es">
+<head>
+	  <base href="https://www.macrosistemas.gt/productos" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Guatemala,computadoras,discos duros,monitores,compus guatemala,repuestos computadoras,Notebook,impresora,scanner,camara,webcams,teclado,red, router, genius,toshiba,samsung,tablet,smartphone,phone,cell,celular,dell,aoc,hp,asus,lenovo" />
+  <meta name="description" content="La mejor compra, por calidad, precio y servicio, solamente la consigues en MacroSistemas satisfacción, calidad, el mejor precio del mercado y atención personalizada" />
+  <title>Bienvenido a Macrosistemas</title>
+  <link href="/templates/macrosistemas/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/macrosistemas/css/template.css.php" type="text/css" />
+  <link rel="stylesheet" href="https://www.macrosistemas.gt/modules/mod_ext_superfish_menu/assets/css/superfish.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js?v2.6.9&amp;sitepath=/" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js?vmver=Revision: 8515" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/jquery.noconflict.js?vmver=Revision: 8515" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="/templates/macrosistemas/js/logic.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});
+  </script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<script type="text/javascript" src="/templates/macrosistemas/js/jquery.meanmenu.min.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu1JdnkTn0EqoU-ksBlSLKWeH3-FrzZx0"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WD2NJM2');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body class="site productos ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WD2NJM2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- header -->
+	<div class="header" id="header">
+		<div class="wrapper">
+			<a class="logo" href="https://www.macrosistemas.gt/"><img src="/templates/macrosistemas/images/logo.png" alt="Macrosistemas" class="logo" /></a>
+							<div class="top">
+							<div class="moduletable">
+					<div class="vm-mini-cart">
+<!-- Virtuemart 2 Ajax Card -->
+	<div class="vmCartModule  vm-mini-cart-module" id="vmCartModule">
+			
+		<div class="visible-cart-content">
+			<div class="total_products">
+				<a href="/./carrito">Carro vacío</a>
+			</div>
+			<div class="total">
+							</div>
+		</div>	
+		
+		<noscript>
+			Please wait		</noscript>
+					
+	</div>
+</div>
+
+
+		</div>
+	
+				</div>
+						<div class="header-int">
+									<div class="menu-wrap">
+								<div class="moduletable">
+						
+<div class="mod_ext_superfish_menu">
+	
+	<ul class="nav sf-menu   ">
+	<li class="item-101"><a href="/" >Inicio</a></li><li class="item-115 current active"><a href="/productos" >Productos</a></li><li class="item-141"><a href="/tiendas" >Tiendas</a></li><li class="item-152"><a href="/./#fbsection4" >Contacto</a></li><li class="item-182 deeper parent"><a href="/personaliza" >Personaliza tu PC</a><ul><li class="item-213"><a href="/personaliza/personaliza" >Personaliza PC Celeron</a></li><li class="item-264"><a href="/personaliza/personaliza-pc-core-i3-sexta-generacion" >Personaliza PC Core I3 Sexta Generación </a></li><li class="item-262"><a href="/personaliza/personaliza-pc-core-i5-sexta-generacion" >Personaliza PC Core I5 Sexta Generación </a></li><li class="item-263"><a href="/personaliza/personaliza-pc-core-i7-sexta-generacion" >Personaliza PC Core I7 Sexta Generación</a></li></ul></li><li class="item-230"><a href="/suscribete" >Suscríbete</a></li><li class="item-251"><a href="/noticias" >Noticias</a></li></ul>
+	
+	
+		<div style="clear: both;"></div>
+</div><div style='display:none'><div><p>Developed in conjunction with <a href='https://eco-joom.com/joomla-extensions.html' title='Joomla extensions' target='_blank'>Joomla extensions</a>.</p></div></div>		</div>
+	
+					</div>
+							</div>
+		</div>
+	</div>
+	<div class="menu-movil"></div>
+	<!-- showcase -->
+					<div class="showcase1">
+						<div class="moduletable">
+					
+
+<div class="custom"  >
+	<h2 class="title-banner">Productos</h2>
+<div class="banner-productos">&nbsp;</div></div>
+		</div>
+	
+				<div class="nav-productos">
+					
+				</div>
+			</div>
+			<!-- //end showcase -->
+	<div class="clr"></div>
+			<div class="maincontent">
+			<div class="wrapper">
+				<div class="content-wrap">
+					
+<div id="system-message-container">
+</div>
+					
+
+
+<section class="category-view">
+				<div class="row-fluid">
+	    		  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/accesiruis-para-celulares" title="Accesorios Para Celulares">
+		    			<img src="/images/stories/virtuemart/category/resized/1_500x500.jpg" alt="1"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/accesiruis-para-celulares" title="Accesorios Para Celulares">
+								Accesorios Para Celulares							</a>
+							<a class="btnmore" href="/productos/accesiruis-para-celulares" title="Accesorios Para Celulares">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+			  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/audio" title="Audio">
+		    			<img src="/images/stories/virtuemart/category/resized/28_500x500.jpg" alt="28"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/audio" title="Audio">
+								Audio							</a>
+							<a class="btnmore" href="/productos/audio" title="Audio">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+			  	<div class="category item-category-productos  span4 ">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/cables" title="Cables y adaptadores">
+		    			<img src="/images/stories/virtuemart/category/resized/3_500x500.jpg" alt="3"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/cables" title="Cables y adaptadores">
+								Cables y adaptadores							</a>
+							<a class="btnmore" href="/productos/cables" title="Cables y adaptadores">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+		    </div>
+				<div class="row-fluid">
+	    		  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/cámaras" title="Cámaras">
+		    			<img src="/images/stories/virtuemart/category/resized/4_500x500.jpg" alt="4"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/cámaras" title="Cámaras">
+								Cámaras							</a>
+							<a class="btnmore" href="/productos/cámaras" title="Cámaras">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+			  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/case" title="Case">
+		    			<img src="/images/stories/virtuemart/category/resized/5_500x500.jpg" alt="5"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/case" title="Case">
+								Case							</a>
+							<a class="btnmore" href="/productos/case" title="Case">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+			  	<div class="category item-category-productos  span4 ">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/componente-de-computadora" title="Componentes de Computadora">
+		    			<img src="/images/stories/virtuemart/category/resized/6_500x500.jpg" alt="6"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/componente-de-computadora" title="Componentes de Computadora">
+								Componentes de Computadora							</a>
+							<a class="btnmore" href="/productos/componente-de-computadora" title="Componentes de Computadora">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+		    </div>
+				<div class="row-fluid">
+	    		  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/computadoras-de-escritorio-brocs" title="Computadoras de Escritorio">
+		    			<img src="/images/stories/virtuemart/category/resized/7_500x500.jpg" alt="7"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/computadoras-de-escritorio-brocs" title="Computadoras de Escritorio">
+								Computadoras de Escritorio							</a>
+							<a class="btnmore" href="/productos/computadoras-de-escritorio-brocs" title="Computadoras de Escritorio">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+			  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/entretenimiento" title="Entretenimiento">
+		    			<img src="/images/stories/virtuemart/category/resized/8_500x500.jpg" alt="8"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/entretenimiento" title="Entretenimiento">
+								Entretenimiento							</a>
+							<a class="btnmore" href="/productos/entretenimiento" title="Entretenimiento">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+			  	<div class="category item-category-productos  span4 ">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/impresoras-y-suministros" title="Impresoras y suministros">
+		    			<img src="/images/stories/virtuemart/category/resized/9_500x500.jpg" alt="9"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/impresoras-y-suministros" title="Impresoras y suministros">
+								Impresoras y suministros							</a>
+							<a class="btnmore" href="/productos/impresoras-y-suministros" title="Impresoras y suministros">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+		    </div>
+				<div class="row-fluid">
+	    		  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/liquidación" title="Liquidación">
+		    			<img src="/images/stories/virtuemart/category/resized/10_500x500.jpg" alt="10"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/liquidación" title="Liquidación">
+								Liquidación							</a>
+							<a class="btnmore" href="/productos/liquidación" title="Liquidación">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+			  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/mantenimiento-y-limpieza" title="Mantenimiento y limpieza">
+		    			<img src="/images/stories/virtuemart/category/resized/19_500x500.jpg" alt="19"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/mantenimiento-y-limpieza" title="Mantenimiento y limpieza">
+								Mantenimiento y limpieza							</a>
+							<a class="btnmore" href="/productos/mantenimiento-y-limpieza" title="Mantenimiento y limpieza">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+			  	<div class="category item-category-productos  span4 ">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/memoria-ram" title="Memorias">
+		    			<img src="/images/stories/virtuemart/category/resized/11_500x500.jpg" alt="11"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/memoria-ram" title="Memorias">
+								Memorias							</a>
+							<a class="btnmore" href="/productos/memoria-ram" title="Memorias">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+		    </div>
+				<div class="row-fluid">
+	    		  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/monitores" title="Monitores">
+		    			<img src="/images/stories/virtuemart/category/resized/12_500x500.jpg" alt="12"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/monitores" title="Monitores">
+								Monitores							</a>
+							<a class="btnmore" href="/productos/monitores" title="Monitores">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+			  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/muebles-y-oficina" title="Muebles Para Oficina">
+		    			<img src="/images/stories/virtuemart/category/resized/13_500x500.jpg" alt="13"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/muebles-y-oficina" title="Muebles Para Oficina">
+								Muebles Para Oficina							</a>
+							<a class="btnmore" href="/productos/muebles-y-oficina" title="Muebles Para Oficina">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+			  	<div class="category item-category-productos  span4 ">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/notebooks" title="Notebooks y Accesorios">
+		    			<img src="/images/stories/virtuemart/category/resized/14_500x500.jpg" alt="14"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/notebooks" title="Notebooks y Accesorios">
+								Notebooks y Accesorios							</a>
+							<a class="btnmore" href="/productos/notebooks" title="Notebooks y Accesorios">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+		    </div>
+				<div class="row-fluid">
+	    		  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/proyectores" title="Proyectores">
+		    			<img src="/images/stories/virtuemart/category/resized/15_500x500.jpg" alt="15"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/proyectores" title="Proyectores">
+								Proyectores							</a>
+							<a class="btnmore" href="/productos/proyectores" title="Proyectores">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+			  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/redes" title="Redes">
+		    			<img src="/images/stories/virtuemart/category/resized/16_500x500.jpg" alt="16"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/redes" title="Redes">
+								Redes							</a>
+							<a class="btnmore" href="/productos/redes" title="Redes">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+			  	<div class="category item-category-productos  span4 ">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/software" title="software">
+		    			<img src="/images/stories/virtuemart/category/resized/17_500x500.jpg" alt="17"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/software" title="software">
+								software							</a>
+							<a class="btnmore" href="/productos/software" title="software">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+		    </div>
+				<div class="row-fluid">
+	    		  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/tablet-y-accesorios" title="Tablets y Accesorios">
+		    			<img src="/images/stories/virtuemart/category/resized/18_500x500.jpg" alt="18"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/tablet-y-accesorios" title="Tablets y Accesorios">
+								Tablets y Accesorios							</a>
+							<a class="btnmore" href="/productos/tablet-y-accesorios" title="Tablets y Accesorios">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+			  	<div class="category item-category-productos  span4 vertical-separator">
+					<div class="spacer">	
+						<div class="image-cont">	    		
+	    		    <a href="/productos/ups-y-reguladores" title="Ups y Reguladores">
+		    			<img src="/images/stories/virtuemart/category/resized/21_500x500.jpg" alt="21"  />			    		</a>
+						</div>
+						<h2 class="cat-product-title">
+							<a href="/productos/ups-y-reguladores" title="Ups y Reguladores">
+								Ups y Reguladores							</a>
+							<a class="btnmore" href="/productos/ups-y-reguladores" title="Ups y Reguladores">
+								Ver productos
+							</a>
+							
+		    		</h2>
+					</div>
+  			</div>
+	        <div class="clear"></div>
+    </div>
+    </section>
+				</div>
+			</div>
+		</div>
+		<div class="clr"></div>
+	<!-- footer -->
+	<div class="footer-wrap">
+		<div class="wrapper">
+							<div class="footer-1">
+							<div class="moduletable">
+					<ul class="side-menu">
+<li class="item-143"><a href="/politicas-de-garantia" >Políticas de Garantía</a></li><li class="item-144"><a href="/politicas-de-envio" >Politicas de Envío</a></li><li class="item-265"><a href="/mayoristas" >Mayoristas</a></li></ul>
+		</div>
+			<div class="moduletable">
+					
+
+<div class="custom"  >
+	<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/icono-tarjetas.png" alt="icono-tarjetas" /></p></div>
+		</div>
+	
+				</div>
+														</div>
+	</div>
+	<div class="clr"></div>
+	<center class="powerby"  style="font-size: 9pt;"><p>Powered by <a href="https://www.iguate.com" target='_blank' title="Diseño web guatemala">iGuate.com</a></p></center>
+		<!-- //end footer -->
+	
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-3746563-102', 'auto');
+	  ga('send', 'pageview');
+	</script>
+	<!--Start of Tawk.to Script-->
+		<script type="text/javascript">
+		var $_Tawk_API={},$_Tawk_LoadStart=new Date();
+			(function(){
+			var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+			s1.async=true;
+			s1.src='https://embed.tawk.to/546e6f67eebdcbe3577b6808/default';
+			s1.charset='UTF-8';
+			s1.setAttribute('crossorigin','*');
+			s0.parentNode.insertBefore(s1,s0);
+		})();
+		</script>
+	<!--End of Tawk.to Script-->
+	<script type="text/javascript" src="/templates/macrosistemas/js/cloud-zoom.1.0.2.min.js"></script>
+	<script type="text/javascript" src="/templates/macrosistemas/js/javascript.js"></script>
+
+</body>
+
+</html>
+��a���           Y�$�>�G       ':https://www.macrosistemas.gt/productos security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Date: Tue, 15 Aug 2017 16:43:27 GMT
+Server: Apache
+X-Logged-In: False
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+ charset UTF-8 uncompressed-len 0 predictor::resource-count 47 predictor::https://www.macrosistemas.gt/components/com_k2/css/k2.css 1,1,0,0 predictor::https://www.macrosistemas.gt/media/system/css/modal.css 1,1,0,0 predictor::https://www.macrosistemas.gt/templates/macrosistemas/css/template.css.php 1,1,0,0 predictor::https://www.macrosistemas.gt/modules/mod_ext_superfish_menu/assets/css/superfish.css 1,1,0,0 predictor::https://www.macrosistemas.gt/media/system/js/mootools-core.js 1,1,0,0 predictor::https://www.macrosistemas.gt/media/system/js/core.js 1,1,0,0 predictor::https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js 1,1,0,0 predictor::https://www.macrosistemas.gt/components/com_k2/js/k2.js?v2.6.9&sitepath=/ 1,1,0,0 predictor::https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js?vmver=Revision:%208515 1,1,0,0 predictor::https://www.macrosistemas.gt/components/com_virtuemart/assets/js/jquery.noconflict.js?vmver=Revision:%208515 1,1,0,0 predictor::https://www.macrosistemas.gt/media/system/js/modal.js 1,1,0,0 predictor::https://www.macrosistemas.gt/templates/macrosistemas/js/logic.js 1,1,0,0 predictor::https://www.macrosistemas.gt/templates/macrosistemas/js/jquery.meanmenu.min.js 1,1,0,0 predictor::https://maps.googleapis.com/maps/api/js?key=AIzaSyBu1JdnkTn0EqoU-ksBlSLKWeH3-FrzZx0 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/1_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/28_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/3_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/4_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/5_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/6_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/7_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/8_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/9_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/10_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/19_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/11_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/12_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/13_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/14_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/15_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/16_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/17_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/18_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/category/resized/21_500x500.jpg 1,1,0,0 predictor::https://www.macrosistemas.gt/templates/macrosistemas/js/cloud-zoom.1.0.2.min.js 1,1,0,0 predictor::https://www.macrosistemas.gt/templates/macrosistemas/js/javascript.js 1,1,0,0 predictor::https://csi.gstatic.com/csi?v=2&s=mapsapi3&v3v=30.1&action=apiboot2&e=10_1_0,10_2_0&rt=main.7 1,1,0,0 predictor::https://www.googletagmanager.com/gtm.js?id=GTM-WD2NJM2 1,1,0,0 predictor::https://www.google-analytics.com/analytics.js 1,1,0,0 predictor::https://embed.tawk.to/546e6f67eebdcbe3577b6808/default 1,1,0,0 predictor::https://www.google-analytics.com/collect?v=1&_v=j59&a=1120782358&t=pageview&_s=1&dl=https%3A%2F%2Fwww.macrosistemas.gt%2Fproductos&ul=en-us&de=UTF-8&dt=Bienvenido%20a%20Macrosistemas&sd=24-bit&sr=1360x673&vp=1282x578&je=0&_u=AACAAEABI~&jid=&gjid=&cid=1100934596.1502815031&tid=UA-3746563-102&_gid=2012697959.1502815031&z=79602950 1,1,0,0 predictor::https://cdn.jsdelivr.net/emojione/2.2.7/assets/css/emojione.min.css 1,1,0,0 predictor::https://cdn.jsdelivr.net/emojione/2.2.7/lib/js/emojione.min.js 1,1,0,0 predictor::https://maps.googleapis.com/maps-api-v3/api/js/30/1/common.js 1,1,0,0 predictor::https://maps.googleapis.com/maps-api-v3/api/js/30/1/util.js 1,1,0,0 predictor::https://maps.googleapis.com/maps-api-v3/api/js/30/1/stats.js 1,1,0,0 predictor::https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.macrosistemas.gt%2Fproductos&4sAIzaSyBu1JdnkTn0EqoU-ksBlSLKWeH3-FrzZx0&callback=_xdc_._lg7kew&token=100000 1,1,0,0   Q�

@@ -1,0 +1,41 @@
+[Tue Aug 01 10:40:58.330302 2017] [:error] [pid 5721:tid 140133072353024] [client 127.0.0.1:47162] mod_wsgi (pid=5721): Target WSGI script '/home/proking/python-web/app/controller.py' does not contain WSGI application 'application'.
+[Tue Aug 01 10:40:58.460331 2017] [:error] [pid 5721:tid 140133063960320] [client 127.0.0.1:47162] mod_wsgi (pid=5721): Target WSGI script '/home/proking/python-web/app/controller.py' does not contain WSGI application 'application'.
+[Tue Aug 01 10:40:58.472741 2017] [:error] [pid 5721:tid 140133055567616] [client 127.0.0.1:47162] mod_wsgi (pid=5721): Target WSGI script '/home/proking/python-web/app/controller.py' does not contain WSGI application 'application'.
+[Tue Aug 01 10:41:07.545304 2017] [:error] [pid 5720:tid 140132971640576] [client 127.0.0.1:47163] mod_wsgi (pid=5720): Target WSGI script '/home/proking/python-web/app/controller.py' does not contain WSGI application 'application'.
+[Tue Aug 01 10:42:18.495844 2017] [:error] [pid 5720:tid 140132954855168] [client 127.0.0.1:47164] mod_wsgi (pid=5720): Target WSGI script '/home/proking/python-web/app/controller.py' does not contain WSGI application 'application'.
+[Tue Aug 01 10:42:21.069721 2017] [:error] [pid 5720:tid 140133063960320] [client 127.0.0.1:47164] mod_wsgi (pid=5720): Target WSGI script '/home/proking/python-web/app/controller.py' does not contain WSGI application 'application'.
+[Tue Aug 01 10:43:20.767418 2017] [:error] [pid 5720:tid 140133047174912] [client 127.0.0.1:47165] mod_wsgi (pid=5720): Target WSGI script '/home/proking/python-web/app/controller.py' does not contain WSGI application 'application'.
+[Tue Aug 01 10:43:24.286416 2017] [:error] [pid 5720:tid 140132996818688] [client 127.0.0.1:47165] mod_wsgi (pid=5720): Target WSGI script '/home/proking/python-web/app/controller.py' does not contain WSGI application 'application'.
+[Tue Aug 01 10:44:06.471008 2017] [:error] [pid 5829:tid 140543390553856] [client 127.0.0.1:47166] mod_wsgi (pid=5829): Target WSGI script '/home/proking/python-web/app/controller.py' does not contain WSGI application 'application'.
+[Tue Aug 22 02:07:04.347617 2017] [:error] [pid 1533:tid 140263445026560] [client 127.0.0.1:40548] mod_wsgi (pid=1533): Target WSGI script '/home/proking/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 22 02:07:04.375442 2017] [:error] [pid 1533:tid 140263445026560] [client 127.0.0.1:40548] mod_wsgi (pid=1533): Exception occurred processing WSGI script '/home/proking/python-web/app/controller.py'.
+[Tue Aug 22 02:07:04.375482 2017] [:error] [pid 1533:tid 140263445026560] [client 127.0.0.1:40548] Traceback (most recent call last):
+[Tue Aug 22 02:07:04.375500 2017] [:error] [pid 1533:tid 140263445026560] [client 127.0.0.1:40548]   File "/home/proking/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 22 02:07:04.375579 2017] [:error] [pid 1533:tid 140263445026560] [client 127.0.0.1:40548]     from sitioweb import contacto, ejemplos, form
+[Tue Aug 22 02:07:04.375594 2017] [:error] [pid 1533:tid 140263445026560] [client 127.0.0.1:40548] ImportError: No module named sitioweb
+[Tue Aug 22 03:03:01.476631 2017] [:error] [pid 1532:tid 140263495382784] [client 127.0.0.1:40662] mod_wsgi (pid=1532): Exception occurred processing WSGI script '/home/proking/python-web/app/controller.py'., referer: http://python-web/form
+[Tue Aug 22 03:03:01.476687 2017] [:error] [pid 1532:tid 140263495382784] [client 127.0.0.1:40662] Traceback (most recent call last):, referer: http://python-web/form
+[Tue Aug 22 03:03:01.476704 2017] [:error] [pid 1532:tid 140263495382784] [client 127.0.0.1:40662]   File "/home/proking/python-web/app/controller.py", line 22, in application, referer: http://python-web/form
+[Tue Aug 22 03:03:01.476765 2017] [:error] [pid 1532:tid 140263495382784] [client 127.0.0.1:40662]     output = form.recibe(environ), referer: http://python-web/form
+[Tue Aug 22 03:03:01.476773 2017] [:error] [pid 1532:tid 140263495382784] [client 127.0.0.1:40662]   File "/home/proking/python-web/app/sitioweb/form.py", line 42, in recibe, referer: http://python-web/form
+[Tue Aug 22 03:03:01.476817 2017] [:error] [pid 1532:tid 140263495382784] [client 127.0.0.1:40662]     resultado = run_query(query), referer: http://python-web/form
+[Tue Aug 22 03:03:01.476824 2017] [:error] [pid 1532:tid 140263495382784] [client 127.0.0.1:40662]   File "/home/proking/python-web/app/sitioweb/form.py", line 16, in run_query, referer: http://python-web/form
+[Tue Aug 22 03:03:01.476835 2017] [:error] [pid 1532:tid 140263495382784] [client 127.0.0.1:40662]     conn = MySQLdb.connect(*datos), referer: http://python-web/form
+[Tue Aug 22 03:03:01.476840 2017] [:error] [pid 1532:tid 140263495382784] [client 127.0.0.1:40662]   File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect, referer: http://python-web/form
+[Tue Aug 22 03:03:01.476873 2017] [:error] [pid 1532:tid 140263495382784] [client 127.0.0.1:40662]     return Connection(*args, **kwargs), referer: http://python-web/form
+[Tue Aug 22 03:03:01.476880 2017] [:error] [pid 1532:tid 140263495382784] [client 127.0.0.1:40662]   File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__, referer: http://python-web/form
+[Tue Aug 22 03:03:01.476948 2017] [:error] [pid 1532:tid 140263495382784] [client 127.0.0.1:40662]     super(Connection, self).__init__(*args, **kwargs2), referer: http://python-web/form
+[Tue Aug 22 03:03:01.476968 2017] [:error] [pid 1532:tid 140263495382784] [client 127.0.0.1:40662] OperationalError: (1045, "Access denied for user 'root'@'localhost' (using password: YES)"), referer: http://python-web/form
+[Tue Aug 22 03:03:59.719310 2017] [:error] [pid 1533:tid 140263486990080] [client 127.0.0.1:40663] mod_wsgi (pid=1533): Exception occurred processing WSGI script '/home/proking/python-web/app/controller.py'., referer: http://python-web/form
+[Tue Aug 22 03:03:59.719430 2017] [:error] [pid 1533:tid 140263486990080] [client 127.0.0.1:40663] Traceback (most recent call last):, referer: http://python-web/form
+[Tue Aug 22 03:03:59.719449 2017] [:error] [pid 1533:tid 140263486990080] [client 127.0.0.1:40663]   File "/home/proking/python-web/app/controller.py", line 22, in application, referer: http://python-web/form
+[Tue Aug 22 03:03:59.719533 2017] [:error] [pid 1533:tid 140263486990080] [client 127.0.0.1:40663]     output = form.recibe(environ), referer: http://python-web/form
+[Tue Aug 22 03:03:59.719541 2017] [:error] [pid 1533:tid 140263486990080] [client 127.0.0.1:40663]   File "/home/proking/python-web/app/sitioweb/form.py", line 42, in recibe, referer: http://python-web/form
+[Tue Aug 22 03:03:59.719576 2017] [:error] [pid 1533:tid 140263486990080] [client 127.0.0.1:40663]     resultado = run_query(query), referer: http://python-web/form
+[Tue Aug 22 03:03:59.719583 2017] [:error] [pid 1533:tid 140263486990080] [client 127.0.0.1:40663]   File "/home/proking/python-web/app/sitioweb/form.py", line 16, in run_query, referer: http://python-web/form
+[Tue Aug 22 03:03:59.719593 2017] [:error] [pid 1533:tid 140263486990080] [client 127.0.0.1:40663]     conn = MySQLdb.connect(*datos), referer: http://python-web/form
+[Tue Aug 22 03:03:59.719598 2017] [:error] [pid 1533:tid 140263486990080] [client 127.0.0.1:40663]   File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect, referer: http://python-web/form
+[Tue Aug 22 03:03:59.719630 2017] [:error] [pid 1533:tid 140263486990080] [client 127.0.0.1:40663]     return Connection(*args, **kwargs), referer: http://python-web/form
+[Tue Aug 22 03:03:59.719636 2017] [:error] [pid 1533:tid 140263486990080] [client 127.0.0.1:40663]   File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__, referer: http://python-web/form
+[Tue Aug 22 03:03:59.719714 2017] [:error] [pid 1533:tid 140263486990080] [client 127.0.0.1:40663]     super(Connection, self).__init__(*args, **kwargs2), referer: http://python-web/form
+[Tue Aug 22 03:03:59.719736 2017] [:error] [pid 1533:tid 140263486990080] [client 127.0.0.1:40663] OperationalError: (1045, "Access denied for user 'root'@'localhost' (using password: YES)"), referer: http://python-web/form

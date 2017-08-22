@@ -1,0 +1,23 @@
+status: 200
+x-request-id: 02677d55-4fd1-4931-aa5c-f272422b98d1
+via: 1.1 juju-prod45-u1-sca-machine-25 (squid/3.3.8),
+ 1.1 proxymeso (squid/3.5.26)
+x-cache: HIT from juju-prod45-u1-sca-machine-25, MISS from proxymeso
+content-language: en
+age: 556
+expires: Tue, 25 Jul 2017 16:33:29 GMT
+vary: Authorization,Accept-Language,Cookie
+server: gunicorn/19.6.0
+last-modified: Tue, 25 Jul 2017 16:23:29 GMT
+connection: keep-alive
+etag: "d751713988987e9331980363e24189ce"
+x-bzr-revision-number: 4023
+cache-control: max-age=600
+date: Tue, 25 Jul 2017 16:40:33 GMT
+x-vcs-revision: 13.2
+content-type: application/json; charset=utf-8
+x-cache-lookup: HIT from juju-prod45-u1-sca-machine-25:3128,
+ MISS from proxymeso:3128
+content-location: http://software-center.ubuntu.com/api/2.0/applications/es/ubuntu/trusty/amd64/
+
+[]

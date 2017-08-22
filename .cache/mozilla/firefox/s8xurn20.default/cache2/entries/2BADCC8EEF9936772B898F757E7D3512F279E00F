@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+
+<html lang="es-gt">
+    <head>
+        
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+        <link href="/static/material/imgs/favicon.png" rel="shortcut icon">
+        <title>Sitio administrativo | Sitio de administraci√≥n de Django</title>
+        
+        
+
+<link href="/static/material/fonts/material-design-icons/material-icons.css"  rel="stylesheet">
+
+<link href="/static/material/css/materialize.admin.min.css" rel="stylesheet">
+
+<link href="/static/admin/css/icons.css" rel="stylesheet" type="text/css" />
+
+        
+        
+        <meta name="robots" content="NONE,NOARCHIVE" />
+        
+        <script src="/static/material/js/jquery.js"></script>
+        <script>
+            // Use same django for material and django admin
+            var django = django || {};
+            django.jQuery = jQuery.noConflict(true);
+            window.jQuery = window.$ = django.jQuery
+        </script>
+        <script type="text/javascript">window.__admin_media_prefix__ = "/static/admin/";</script>
+        <script type="text/javascript">window.__admin_utc_offset__ = "\u002D21600";</script>
+        <script type="text/javascript" src="/admin/jsi18n/"></script>
+        
+        
+        
+        
+    </head>
+    <body class="">
+        
+        <header>
+            
+            
+            <ul id="slide-out" class="side-nav fixed">
+                
+                <li>
+                    <div class="userView">
+                        <img class="background" src="/static/material/imgs/sidenav.svg">
+                        
+                        
+                        <a href="#"><img class="circle" src="/static/material/imgs/user.png"></a>
+                        
+                        
+                        <a href="#"><span class="white-text name">Proking</span></a>
+                        <a href="#"><span class="white-text email"></span></a>
+                    </div>
+                </li>
+                
+                
+                
+                    <li class="no-padding"><a class="collapsible-header" href="/"><i class="material-icons">arrow_back</i>Ver el sitio</a></li>
+                
+                
+                
+                <li >
+                    <ul class="collapsible collapsible-accordion">
+                        <li>
+                            <a class="collapsible-header"><i class="material-icons admin-appicon admin-appicon-auth"></i> Auth</a>
+                            <div class="collapsible-body" >
+                                <ul>
+                                    
+                                    <li class="">
+                                        <a href="/admin/auth/group/">Grupos</a>
+                                    </li>
+                                    
+                                    <li class="">
+                                        <a href="/admin/auth/user/">Usuarios</a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    
+                <li >
+                    <ul class="collapsible collapsible-accordion">
+                        <li>
+                            <a class="collapsible-header"><i class="material-icons admin-appicon admin-appicon-blog"></i> Blog</a>
+                            <div class="collapsible-body" >
+                                <ul>
+                                    
+                                    <li class="">
+                                        <a href="/admin/blog/publicacion/">Publicacions</a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    
+                <li >
+                    <ul class="collapsible collapsible-accordion">
+                        <li>
+                            <a class="collapsible-header"><i class="material-icons">view_module</i> Interfaz</a>
+                            <div class="collapsible-body" >
+                                <ul>
+                                    
+                                    <li class="">
+                                        <a href="/admin/frontend/module/">M√≥dulos</a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    
+                
+            </ul>
+            
+            
+        </header>
+        <main>
+            
+                
+                <nav class="topbar">
+                    <div class="nav-wrapper">
+                        <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
+                        <div class="brand-logo">
+                            
+                            <a href="/" class="page-title">Administraci√≥n</a>
+                            
+                        </div>
+                        <ul id="nav-mobile" class="right hide-on-med-and-down">
+                            
+                            
+                                
+                                
+                            
+                            
+                                <li><a href="/admin/password_change/">Cambiar contrase√±a</a></li>
+                            
+                            
+                            <li><a href="/admin/logout/" data-turbolinks="false"><i class="material-icons right">exit_to_app</i>Terminar sesi√≥n</a></li>
+                            
+                            
+                        </ul>
+                    </div>
+                </nav>
+                
+                
+                
+                <nav class="breadcrumbs">
+                    <div class="nav-wrapper">
+                        
+<a href="/admin/">Inicio</a>
+
+                    </div>
+                </nav>
+                
+                
+                
+                <div class="content">
+                    
+<div class="row">
+    <div class="app-list">
+        
+        
+        <div class="app">
+            <div class="card">
+                <div class="card-content">
+                    <span class="card-title black-text">Auth</span>
+                    <div class="row">
+                        
+                        <div class="app-item col s6 m6 l4">
+                            <a href="/admin/auth/group/">
+                                <i class="material-icons admin-modelicon admin-modelicon-auth-group"></i>
+                                <h6>Grupos</h6>
+                            </a>
+                        </div>
+                        
+                        <div class="app-item col s6 m6 l4">
+                            <a href="/admin/auth/user/">
+                                <i class="material-icons admin-modelicon admin-modelicon-auth-user"></i>
+                                <h6>Usuarios</h6>
+                            </a>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="app">
+            <div class="card">
+                <div class="card-content">
+                    <span class="card-title black-text">Blog</span>
+                    <div class="row">
+                        
+                        <div class="app-item col s6 m6 l4">
+                            <a href="/admin/blog/publicacion/">
+                                <i class="material-icons admin-modelicon admin-modelicon-blog-publicacion"></i>
+                                <h6>Publicacions</h6>
+                            </a>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="app">
+            <div class="card">
+                <div class="card-content">
+                    <span class="card-title black-text">Interfaz</span>
+                    <div class="row">
+                        
+                        <div class="app-item col s6 m6 l4">
+                            <a href="/admin/frontend/module/">
+                                <i class="material-icons">view_module</i>
+                                <h6>M√≥dulos</h6>
+                            </a>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+                </div>
+                
+            
+        </main>
+        <footer>
+            
+            
+        </footer>
+        
+
+        
+
+
+<script src="/static/material/js/materialize.admin.min.js"></script>
+
+
+        
+
+        
+        
+        
+    </body>
+</html>
+a2ëƒ      YõÕYõÕ>®í       :http://127.0.0.1:8000/admin/ request-method GET request-Cookie VlvcrWRIyfkqEO8O9mbvZZczBsE= response-head HTTP/1.0 200 OK
+Date: Tue, 15 Aug 2017 17:44:01 GMT
+Server: WSGIServer/0.2 CPython/3.4.0
+Expires: Tue, 15 Aug 2017 17:44:01 GMT
+Content-Type: text/html; charset=utf-8
+Last-Modified: Tue, 15 Aug 2017 17:44:01 GMT
+Cache-Control: max-age=0
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+ charset UTF-8 uncompressed-len 0 predictor::http://127.0.0.1:8000/static/material/fonts/material-design-icons/material-icons.css 1,1,1503382807,0 predictor::http://127.0.0.1:8000/static/material/css/materialize.admin.min.css 1,1,1503382807,0 predictor::http://127.0.0.1:8000/static/admin/css/icons.css 1,1,1503382807,0 predictor::http://127.0.0.1:8000/static/material/js/jquery.js 1,1,1503382807,0 predictor::http://127.0.0.1:8000/admin/jsi18n/ 1,1,1503382807,0 predictor::http://127.0.0.1:8000/static/material/imgs/sidenav.svg 1,1,1503382807,0 predictor::http://127.0.0.1:8000/static/material/imgs/user.png 1,1,1503382807,0 predictor::http://127.0.0.1:8000/static/material/js/materialize.admin.min.js 1,1,1503382807,0 predictor::http://127.0.0.1:8000/static/material/fonts/roboto/Roboto-Regular.woff2 1,1,1503382807,0 predictor::http://127.0.0.1:8000/static/material/fonts/material-design-icons/MaterialIcons-Regular.woff2 1,1,1503382807,0 predictor::http://127.0.0.1:8000/static/material/fonts/roboto/Roboto-Thin.woff2 1,1,1503382807,0 predictor::http://127.0.0.1:8000/static/material/fonts/roboto/Roboto-Light.woff2 1,1,1503382807,0 predictor::http://127.0.0.1:8000/static/material/fonts/roboto/Roboto-Medium.woff2 1,1,1503382807,0 necko:classified 1   #œ

@@ -1,0 +1,1996 @@
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+@chrome://browser/content/content.js:63:5
+addTab@chrome://browser/content/tabbrowser.xml:1809:15
+loadOneTab@chrome://browser/content/tabbrowser.xml:1412:23
+openLinkIn@chrome://browser/content/utilityOverlay.js:354:1
+handleLinkClick@chrome://browser/content/browser.js:16021:3
+contentAreaClick@chrome://browser/content/browser.js:15965:3
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+@chrome://browser/content/content.js:63:5
+_createPreloadBrowser@chrome://browser/content/tabbrowser.xml:1619:13
+_handleNewTab@chrome://browser/content/tabbrowser.xml:4848:11
+onxbltransitionend@chrome://browser/content/tabbrowser.xml:4960:13
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+@chrome://browser/content/content.js:63:5
+addTab@chrome://browser/content/tabbrowser.xml:1809:15
+loadOneTab@chrome://browser/content/tabbrowser.xml:1412:23
+openLinkIn@chrome://browser/content/utilityOverlay.js:354:1
+handleLinkClick@chrome://browser/content/browser.js:16021:3
+contentAreaClick@chrome://browser/content/browser.js:15965:3
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+i/this._insertionStrategy@https://platform.twitter.com/widgets.js:8:28435
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+TabsProgressListener.onStateChange@chrome://browser/content/browser.js:15243:9
+_callProgressListeners@chrome://browser/content/tabbrowser.xml:558:24
+mTabProgressListener/<._callProgressListeners@chrome://browser/content/tabbrowser.xml:602:22
+mTabProgressListener/<.onStateChange@chrome://browser/content/tabbrowser.xml:758:1
+t@https://platform.twitter.com/widgets.js:9:2813
+t.exports/<@https://platform.twitter.com/widgets.js:8:8861
+r/<@https://platform.twitter.com/widgets.js:8:30295
+i.prototype.run@https://platform.twitter.com/widgets.js:9:499
+i.prototype.flush@https://platform.twitter.com/widgets.js:9:56
+i.prototype.runBatch@https://platform.twitter.com/widgets.js:9:202
+i.prototype.scheduleBatch/<@https://platform.twitter.com/widgets.js:8:31925
+t@https://platform.twitter.com/widgets.js:9:651
+i.prototype.loop/e<@https://platform.twitter.com/widgets.js:9:734
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+a/</t<@https://platform.twitter.com/widgets.js:9:3655
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+pbs<@resource://unity/observer.js:38:71
+Observer.prototype.observe@resource://unity/observer.js:77:24
+bash: no se puede establecer el grupo de proceso de terminal (-1): Función ioctl no apropiada para el dispositivo
+bash: no hay control de trabajos en este shell

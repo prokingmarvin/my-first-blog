@@ -1,0 +1,37 @@
+420m0(Build:2)
+/build/buildd/libreoffice-4.2.8/package/source/xstor/xstorage.cxx:2567: 
+/build/buildd/libreoffice-4.2.8/package/source/xstor/xstorage.cxx:2653: Rethrow
+/build/buildd/libreoffice-4.2.8/package/source/xstor/xstorage.cxx:2567: 
+/build/buildd/libreoffice-4.2.8/package/source/xstor/xstorage.cxx:2653: Rethrow
+Element does not exist and cannot be created: "default.xml"
+/build/buildd/libreoffice-4.2.8/package/source/xstor/xstorage.cxx:2481: Rethrow
+Element does not exist and cannot be created: "lc_imagelist.xml"
+/build/buildd/libreoffice-4.2.8/package/source/xstor/xstorage.cxx:2481: Rethrow
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/sfxbasemodel.cxx:1699: storeAsURL
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1123: Begin
+/build/buildd/libreoffice-4.2.8/package/source/xstor/xstorage.cxx:2567: 
+/build/buildd/libreoffice-4.2.8/package/source/xstor/xstorage.cxx:2653: Rethrow
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1325: SaveAs/Export
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1338: Locking
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1392: Storing in own format.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1442: Save as own format.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1458: Thumbnail creation.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1473: Preserve versions.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1671: Medium commit.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1711: Storing has failed.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:2872: 
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objmisc.cxx:255: Resetting Error.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/sfxbasemodel.cxx:3156: Storing failed!
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/sfxbasemodel.cxx:1699: storeAsURL
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1123: Begin
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1325: SaveAs/Export
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1338: Locking
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1392: Storing in own format.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1442: Save as own format.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1458: Thumbnail creation.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1473: Preserve versions.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1671: Medium commit.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:1711: Storing has failed.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objstor.cxx:2872: 
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/objmisc.cxx:255: Resetting Error.
+/build/buildd/libreoffice-4.2.8/sfx2/source/doc/sfxbasemodel.cxx:3156: Storing failed!

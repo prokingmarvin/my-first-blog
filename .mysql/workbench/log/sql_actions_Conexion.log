@@ -1,0 +1,128 @@
+[1, 10:59:12] Apply changes to BaseDatos1: Preparing...
+[1, 10:59:15] Applying changes to BaseDatos1...: 
+[1, 10:59:15] : Changes applied to BaseDatos1
+[1, 10:59:17] Apply changes to BaseDatos1: Changes applied
+[2, 11:01:03] Apply changes to Tabla1: Preparing...
+[2, 11:01:09] Applying changes to Tabla1...: 
+[2, 11:01:09] : Changes applied to Tabla1
+[2, 11:01:10] Apply changes to Tabla1: Changes applied
+[3, 11:48:47] Apply changes to Tabla1: Preparing...
+[3, 11:48:50] Applying changes to Tabla1...: 
+[3, 11:48:50] : Changes applied to Tabla1
+[3, 11:48:51] Apply changes to Tabla1: Changes applied
+[4, 11:49:13] SELECT * FROM BaseDatos1.Tabla1
+LIMIT 0, 1000
+: Running...
+[4, 11:49:13] SELECT * FROM BaseDatos1.Tabla1
+LIMIT 0, 1000
+: Fetching...
+[4, 11:49:13] SELECT * FROM BaseDatos1.Tabla1
+LIMIT 0, 1000
+: 2 row(s) returned
+[1, 11:51:33] Apply changes to URLS: Preparing...
+[1, 11:51:36] Applying changes to URLS...: 
+[1, 11:51:36] : Changes applied to URLS
+[1, 11:51:38] Apply changes to URLS: Changes applied
+[2, 11:54:04] Apply changes to Paginas: Preparing...
+[2, 11:54:07] Applying changes to Paginas...: 
+[2, 11:54:07] : Changes applied to Paginas
+[2, 11:54:08] Apply changes to Paginas: Changes applied
+[1, 15:14:40] SELECT * FROM URLS.Paginas
+LIMIT 0, 1000
+: Running...
+[1, 15:14:40] SELECT * FROM URLS.Paginas
+LIMIT 0, 1000
+: Fetching...
+[1, 15:14:40] SELECT * FROM URLS.Paginas
+LIMIT 0, 1000
+: 0 row(s) returned
+[1, 10:20:38] SELECT * FROM URLS.Paginas
+LIMIT 0, 1000
+: Running...
+[1, 10:20:38] SELECT * FROM URLS.Paginas
+LIMIT 0, 1000
+: Fetching...
+[1, 10:20:38] SELECT * FROM URLS.Paginas
+LIMIT 0, 1000
+: 0 row(s) returned
+[1, 02:11:54] SELECT * FROM URLS.Paginas
+LIMIT 0, 1000
+: Running...
+[1, 02:11:54] SELECT * FROM URLS.Paginas
+LIMIT 0, 1000
+: Fetching...
+[1, 02:11:54] SELECT * FROM URLS.Paginas
+LIMIT 0, 1000
+: 0 row(s) returned
+[2, 02:30:46] Apply changes to Webs: Preparing...
+[2, 02:30:48] Applying changes to Webs...: 
+[2, 02:30:48] : Changes applied to Webs
+[2, 02:30:50] Apply changes to Webs: Changes applied
+[1, 02:43:40] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: Running...
+[1, 02:43:40] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: Fetching...
+[1, 02:43:40] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: 0 row(s) returned
+[2, 02:45:07] Apply changes to Webs: Preparing...
+[2, 02:45:09] Applying changes to Webs...: 
+[2, 02:45:09] : Changes applied to Webs
+[2, 02:45:11] Apply changes to Webs: Changes applied
+[3, 02:45:23] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: Running...
+[3, 02:45:23] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: Fetching...
+[3, 02:45:23] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: 0 row(s) returned
+[4, 02:45:35] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: Running...
+[4, 02:45:35] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: Fetching...
+[4, 02:45:35] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: 0 row(s) returned
+[5, 02:45:40] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: Running...
+[5, 02:45:40] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: Fetching...
+[5, 02:45:40] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: 0 row(s) returned
+[6, 02:50:00] Apply changes to Webs: Preparing...
+[6, 02:50:00] Apply changes to Webs: No changes detected
+[7, 02:50:02] Apply changes to Webs: Preparing...
+[7, 02:50:02] Apply changes to Webs: No changes detected
+[8, 02:50:13] Apply changes to Webs: Preparing...
+[8, 02:50:13] Apply changes to Webs: No changes detected
+[9, 02:50:22] Apply changes to Webs: Preparing...
+[9, 02:50:24] Applying changes to Webs...: 
+[9, 02:50:24] : Changes applied to Webs
+[9, 02:50:26] Apply changes to Webs: Changes applied
+[1, 03:03:38] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: Running...
+[1, 03:03:38] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: Fetching...
+[1, 03:03:38] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: 0 row(s) returned
+[2, 03:03:48] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: Running...
+[2, 03:03:48] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: Fetching...
+[2, 03:03:48] SELECT * FROM URLS.Webs
+LIMIT 0, 1000
+: 0 row(s) returned

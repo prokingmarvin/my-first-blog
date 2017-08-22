@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ENTRY timestamp='11:51:36'>CREATE SCHEMA `URLS` DEFAULT CHARACTER SET utf8 COLLATE utf8_spanish_ci</ENTRY>
+<ENTRY timestamp='11:54:07'>CREATE TABLE `URLS`.`Paginas` (&#x0A;  `idPaginas` INT NOT NULL AUTO_INCREMENT,&#x0A;  `webs` VARCHAR(45) NOT NULL,&#x0A;  `titulos` VARCHAR(45) NOT NULL,&#x0A;  `keys` VARCHAR(45) NULL,&#x0A;  PRIMARY KEY (`idPaginas`))</ENTRY>

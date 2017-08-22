@@ -1,0 +1,19 @@
+Activating service name='com.ubuntu.OneConf'
+Successfully activated service 'com.ubuntu.OneConf'
+WARNING:oneconf.hosts:Error in loading other_hosts file: [Errno 2] No such file or directory: '/home/proking/.cache/oneconf/cf8979fab60055a8b21364d75917e24e/other_hosts'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+Activating service name='com.canonical.Unity.Scope.Academic.Zotero'
+Successfully activated service 'com.canonical.Unity.Scope.Academic.Zotero'
+Activating service name='com.canonical.Unity.Scope.File.Gdrive'
+Successfully activated service 'com.canonical.Unity.Scope.File.Gdrive'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+
+** (process:2393): WARNING **: *** Unsupported operation detected on trash directory
+
+** (process:2393): WARNING **:     A trash files/ directory should only have files linked or unlinked (via moves or deletes).  Some other operation has been detected on a file in the directory (eg: a file has been modified).  Likely, the data reported by the trash backend will now be inconsistent.
+
+** (process:2393): WARNING **:   dir: /home/proking/.local/share/Trash/files, file: db.sqlite3, type: 1
+
+

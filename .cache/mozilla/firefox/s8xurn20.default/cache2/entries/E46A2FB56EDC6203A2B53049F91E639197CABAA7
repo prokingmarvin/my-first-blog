@@ -1,0 +1,424 @@
+<!doctype html>
+<html prefix="og: http://ogp.me/ns#" lang="es-es">
+<head>
+	  <base href="https://www.macrosistemas.gt/productos/cámaras/cámaras-de-seguridad/camara-wifi-d-link-detail" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Guatemala,computadoras,discos duros,monitores,compus guatemala,repuestos computadoras,Notebook,impresora,scanner,camara,webcams,teclado,red, router, genius,toshiba,samsung,tablet,smartphone,phone,cell,celular,dell,aoc,hp,asus,lenovo" />
+  <meta name="title" content="CAMARA WIFI D-LINK" />
+  <meta name="description" content="Consultores en Informática. " />
+  <title>Cámaras de Seguridad : CAMARA WIFI D-LINK</title>
+  <link href="/productos/cámaras/cámaras-de-seguridad/camara-wifi-d-link-detail" rel="canonical" />
+  <link href="/templates/macrosistemas/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/jquery.fancybox-1.3.4.css?vmver=Revision: 8515" type="text/css" />
+  <link rel="stylesheet" href="/templates/macrosistemas/css/template.css.php" type="text/css" />
+  <link rel="stylesheet" href="https://www.macrosistemas.gt/modules/mod_ext_superfish_menu/assets/css/superfish.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js?v2.6.9&amp;sitepath=/" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js?vmver=Revision: 8515" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/jquery.noconflict.js?vmver=Revision: 8515" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/vmprices.js?vmver=Revision: 8515" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/fancybox/jquery.fancybox-1.3.4.pack.js?vmver=Revision: 8515" type="text/javascript"></script>
+  <script src="/templates/macrosistemas/js/logic.js" type="text/javascript"></script>
+  <script type="text/javascript">
+//<![CDATA[ 
+vmSiteurl = 'https://www.macrosistemas.gt/' ;
+vmLang = "";
+
+//]]>
+<!--[CDATA[
+   if(typeof vmSiteurl === 'undefined') {
+   	vmSiteurl = 'https://www.macrosistemas.gt/';
+   }
+   if(typeof vmLang === 'undefined') {
+   	vmLang = '';
+   }	
+   if(typeof usefancy === 'undefined') {
+   	usefancy = 'oldie';
+   }
+   if(typeof jQuery.fancybox == 'function') {
+   	jQuery.extend(jQuery.fn.fancybox.defaults, {
+   		padding: 0
+   	});	
+   } 
+   jQuery(document).ready(function($) {
+   	if(usefancy == 'oldie') {
+   		$('a.ask-a-question').click(function(){
+   			var quickLink = $(this).attr('href');		
+   			$.facebox({
+   					iframe: '/productos/cámaras/cámaras-de-seguridad/camara-wifi-d-link-detail/askquestion?tmpl=modal',
+   					rev: 'iframe|550|550'
+   			});	
+   			return false ;
+   		});			
+   	} else {
+   		if(usefancy == true) {
+   			$('a.ask-a-question').fancybox({
+   				'width': 550,
+   				'transitionIn':	'elastic',
+   				'transitionOut'	:	'elastic',				
+   				'height': 550,
+   				'type': 'iframe',
+   				'autoScale': false,
+   				'titleShow': false,
+   				'padding': 5
+   			});			
+   		} else {
+   			$('a.ask-a-question').click( function(){
+   				var quickLink = $(this).attr('href');		
+   				$.facebox({
+   					iframe: '/productos/cámaras/cámaras-de-seguridad/camara-wifi-d-link-detail/askquestion?tmpl=modal',
+   					rev: 'iframe|550|550'
+   				});	
+   				return false ;
+   			});				
+   		}
+   	}			
+   });
+   //]]-->
+   
+	jQuery(document).ready(function() {
+		jQuery("a[rel=vm-additional-images]").fancybox({
+			"titlePosition" 	: "inside",
+			"transitionIn"	:	"elastic",
+			"transitionOut"	:	"elastic"
+		});
+		jQuery(".additional-images a.product-image.image-0").removeAttr("rel");
+		jQuery(".additional-images img.product-image").click(function() {
+			jQuery(".additional-images a.product-image").attr("rel","vm-additional-images" );
+			jQuery(this).parent().children("a.product-image").removeAttr("rel");
+			var src = jQuery(this).parent().children("a.product-image").attr("href");
+			jQuery(".main-image img").attr("src",src);
+			jQuery(".main-image img").attr("alt",this.alt );
+			jQuery(".main-image a").attr("href",src );
+			jQuery(".main-image a").attr("title",this.alt );
+			jQuery(".main-image .vm-img-desc").html(this.alt);
+		}); 
+	});
+	
+  </script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<script type="text/javascript" src="/templates/macrosistemas/js/jquery.meanmenu.min.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu1JdnkTn0EqoU-ksBlSLKWeH3-FrzZx0"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WD2NJM2');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body class="site productos ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WD2NJM2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- header -->
+	<div class="header" id="header">
+		<div class="wrapper">
+			<a class="logo" href="https://www.macrosistemas.gt/"><img src="/templates/macrosistemas/images/logo.png" alt="Macrosistemas" class="logo" /></a>
+							<div class="top">
+							<div class="moduletable">
+					<div class="vm-mini-cart">
+<!-- Virtuemart 2 Ajax Card -->
+	<div class="vmCartModule  vm-mini-cart-module" id="vmCartModule">
+			
+		<div class="visible-cart-content">
+			<div class="total_products">
+				<a href="/./carrito">Carro vacío</a>
+			</div>
+			<div class="total">
+							</div>
+		</div>	
+		
+		<noscript>
+			Please wait		</noscript>
+					
+	</div>
+</div>
+
+
+		</div>
+	
+				</div>
+						<div class="header-int">
+									<div class="menu-wrap">
+								<div class="moduletable">
+						
+<div class="mod_ext_superfish_menu">
+	
+	<ul class="nav sf-menu   ">
+	<li class="item-101"><a href="/" >Inicio</a></li><li class="item-115 current active"><a href="/productos" >Productos</a></li><li class="item-141"><a href="/tiendas" >Tiendas</a></li><li class="item-152"><a href="/./#fbsection4" >Contacto</a></li><li class="item-182 deeper parent"><a href="/personaliza" >Personaliza tu PC</a><ul><li class="item-213"><a href="/personaliza/personaliza" >Personaliza PC Celeron</a></li><li class="item-264"><a href="/personaliza/personaliza-pc-core-i3-sexta-generacion" >Personaliza PC Core I3 Sexta Generación </a></li><li class="item-262"><a href="/personaliza/personaliza-pc-core-i5-sexta-generacion" >Personaliza PC Core I5 Sexta Generación </a></li><li class="item-263"><a href="/personaliza/personaliza-pc-core-i7-sexta-generacion" >Personaliza PC Core I7 Sexta Generación</a></li></ul></li><li class="item-230"><a href="/suscribete" >Suscríbete</a></li><li class="item-251"><a href="/noticias" >Noticias</a></li></ul>
+	
+	
+		<div style="clear: both;"></div>
+</div><div style='display:none'><div><p>Developed in conjunction with <a href='https://eco-joom.com/joomla-extensions.html' title='Joomla extensions' target='_blank'>Joomla extensions</a>.</p></div></div>		</div>
+	
+					</div>
+							</div>
+		</div>
+	</div>
+	<div class="menu-movil"></div>
+	<!-- showcase -->
+					<div class="showcase1">
+						<div class="moduletable">
+					
+
+<div class="custom"  >
+	<h2 class="title-banner">Productos</h2>
+<div class="banner-productos">&nbsp;</div></div>
+		</div>
+	
+				<div class="nav-productos">
+					
+				</div>
+			</div>
+			<!-- //end showcase -->
+	<div class="clr"></div>
+			<div class="maincontent">
+			<div class="wrapper">
+				<div class="content-wrap">
+					
+<div id="system-message-container">
+</div>
+					<style>
+body {background: #f5f6fa!important;}
+</style>
+<section id="product-details-page">
+   <article id="product-details" class="row-fluid" itemscope itemtype="http://schema.org/Product">
+      <div class="span7">
+         <div class="row-fluid top-content-area">
+            <div class="brief-info span8">
+               <meta itemprop="category" content="Cámaras de Seguridad" />
+               <meta itemprop="url" content="https://www.macrosistemas.gt/productos/cámaras/cámaras-de-seguridad/camara-wifi-d-link-detail" />
+               <div class="row-fluid visible-phone">
+                  	<div class="large-image-container span12" >					
+		<div class="zoom-section">
+			<div class="zoom-small-image">
+				<div id="wrap" style="top:0px;z-index:999;position:relative;">
+					<a href="/images/stories/virtuemart/product/camara-dlink-2.jpg" class="cloud-zoom" rel="position:'inside',showTitle:false,adjustX:-4,adjustY:-4" style="position: relative; display: block;"><img src="/images/stories/virtuemart/product/camara-dlink-2.jpg" title="Your caption here" alt="" style="display: block;">
+					</a>
+					<div class="mousetrap" style="z-index: 999; position: absolute; width: 240px; height: 320px; left: 0px; top: 0px; cursor: move;"></div></div>
+				</div>
+				<div class="zoom-desc">
+			</div>
+		</div>		
+	</div>
+	<div class="clr"></div>
+			<div class="thumbnails-container">
+							<div class="image-thumbnails">
+					<a href="/images/stories/virtuemart/product/camara-dlink-2.jpg"  class="product-image image-0" title="" rel="vm-additional-images"><img src="/images/stories/virtuemart/product/resized/camara-dlink-2_500x500.jpg" alt="camara-dlink-2" class="product-image" style="cursor: pointer" /></a>				</div>
+							<div class="image-thumbnails">
+					<a href="/images/stories/virtuemart/product/camara-dlink-3.jpg"  class="product-image image-1" title="" rel="vm-additional-images"><img src="/images/stories/virtuemart/product/resized/camara-dlink-3_500x500.jpg" alt="camara-dlink-3" class="product-image" style="cursor: pointer" /></a>				</div>
+							<div class="image-thumbnails">
+					<a href="/images/stories/virtuemart/product/camara-dlink-1.jpg"  class="product-image image-2" title="" rel="vm-additional-images"><img src="/images/stories/virtuemart/product/resized/camara-dlink-1_500x500.jpg" alt="camara-dlink-1" class="product-image" style="cursor: pointer" /></a>				</div>
+						<div class="clear"></div>
+		</div>
+	                                 </div>
+            <div class="col2-producto">
+                  <h1 class="producto-page-title" itemprop="name">CAMARA WIFI D-LINK</h1>
+                  <h5 class="sku">
+                     Ref.: <span itemprop="productID">790069378140</span>                  </h5>
+                                    	
+               <div class="price-container" id="productPrice1958" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+	<meta itemprop="price" content="Q 629.76" />
+	<meta itemprop="priceCurrency" content="GTQ" />
+			
+    				<div class="price-class-move">
+					<div class="PricesalesPrice" style="display : block;" ><span class="PricesalesPrice" >Q 629.76</span></div>										<div class="product-discount">
+													
+					</div>						
+				</div>
+				
+<!--
+				<span class="cybermondayprice">
+									</span>
+-->
+				<span class="final-price-class-restore final-price"></span>
+				<span class="precioefectivo">
+					Efectivo: Q 599.77				</span>
+								
+	<meta itemprop="availability" content="out_of_stock" / >	
+</div>                
+                <div class="addcart-wrap">
+                 <div class="addtocart-area">
+	<form method="post" class="product js-recalculate" action="index.php" >
+		
+	<div class="addtocart-bar">
+
+			
+		<div id="qaunity-selector" class="input-prepend input-append hide">
+  		<span class="add-on quantity-controls js-recalculate"><a href="javascript:void(0);" class="quantity-controls quantity-minus" ><i class="icon-chevron-down"></i></a></span>		
+			<input type="text" class="quantity-input js-recalculate" id="appendedPrependedInput" name="quantity[]" value="1" />			
+			<span class="add-on quantity-controls js-recalculate"><a href="javascript:void(0);" class="quantity-controls quantity-plus" ><i class="icon-chevron-up"></i></a></span>
+		</div>			
+
+	    
+	    		<span class="addtocart-button btn btn-large btn-primary">
+			<input type="submit" name="addtocart" class="addtocart-button" value="Añadir al carro" title="Añadir al carro" />		</span>
+
+	    <div class="clear"></div>
+	</div>
+
+		<input type="hidden" class="pname" value="CAMARA WIFI D-LINK" />
+	<input type="hidden" name="option" value="com_virtuemart" />
+	<input type="hidden" name="view" value="cart" />
+	<noscript><input type="hidden" name="task" value="add" /></noscript>
+	<input type="hidden" name="virtuemart_product_id[]" value="1958" />
+    </form>
+
+    <div class="clear"></div>
+    <img class="metos-de-pago-iconos" src="/templates/vp_promart/images/metodosdepago.jpg" alt="metodos-de-pago">
+</div>
+                 </div>
+                
+                
+                
+                
+                         <div class="row-fuid">
+            <div class="span12 tabular-content-area">
+               <ul class="nav nav-tabs" id="PromartTab">
+                                    	
+               </ul>
+               <div class="tab-content">
+                                    <div class="tab-pane fade in active scroll-pane" id="p_description" itemprop="description"><table style="height: 145px; width: 327px;" border="0" frame="VOID" rules="NONE" cellspacing="0"><colgroup><col width="374" /></colgroup>
+<tbody>
+<tr>
+<td width="374" height="17">Dise&ntilde;o compacto y vers&aacute;til</td>
+</tr>
+<tr>
+<td height="17">Habilitada con los servicios gratuitos mydlink&trade;</td>
+</tr>
+<tr>
+<td height="17">Soporte de formatos de compresi&oacute;n como H.264 y MPEG-4</td>
+</tr>
+<tr>
+<td height="17">Soporte Infra Rojo (5 metros) y sensor IR Pasivo (PIR)</td>
+</tr>
+<tr>
+<td height="17">Audio bi direccional, con micr&oacute;fono y parlante incorporado</td>
+</tr>
+<tr>
+<td height="17">Puertos de I/O (DI/DO)</td>
+</tr>
+<tr>
+<td height="17">Slot para tajeta MicroSD (no incluida)</td>
+</tr>
+<tr>
+<td height="17">Wireless 11N</td>
+</tr>
+</tbody>
+</table></div>
+                                 </div>
+            </div>
+            </div>
+           
+         </div>
+         <div class="bottom-producto">
+                        <div class="span4">
+               <aside class="product-side-bar">
+                  <div class="width-50">
+                                       </div>
+                  <div class="other-info width-50">
+                     
+<div class="availability">
+<div class="stock stock-title"><span class="label">producto en existencias EN LAS TIENDAS:</span></div>
+<span class="fecha-actualizacion">Actualizado a: 15-08-2017 10:00:07</span>
+	
+	<div class="more-on-availability">
+	<br>
+<div>
+<table class="productos-disponibles"><tr><th>Tienda</th><th>Cantidad</th></tr><tr><td><span>Chiquimula</span></td> 
+			  <td><span class="existencia">3</span></td></tr><tr><td><span>San Lucas Sac.</span></td> 
+			  <td><span class="existencia">3</span></td></tr><tr><td><span>Quetzaltenango</span></td> 
+			  <td><span class="existencia">5</span></td></tr><tr><td><span>Centra Norte</span></td> 
+			  <td><span class="existencia">3</span></td></tr><tr><td><span>Galerías del Sur</span></td> 
+			  <td><span class="existencia">5</span></td></tr><tr><td><span>Gran Plaza</span></td> 
+			  <td><span class="existencia">3</span></td></tr><tr><td><span>Zona 10</span></td> 
+			  <td><span class="existencia">5</span></td></tr><tr><td><span>Zona 11</span></td> 
+			  <td><span class="existencia">17</span></td></tr><tr><td><span>Metro Norte Z.17</span></td> 
+			  <td><span class="existencia">3</span></td></tr><tr><td><span>Plaza San Nicolás</span></td> 
+			  <td><span class="existencia">3</span></td></tr><tr><td><span></span></td> 
+			  <td><span class="existencia"></span></td></tr></table></div>
+	</div>
+</div>
+                     		
+                  </div>
+                  <div class="clear"></div>
+               </aside>
+            </div>
+                     </div>
+         </div>
+      </div>
+   </article>
+   	
+   </section>
+
+				</div>
+			</div>
+		</div>
+		<div class="clr"></div>
+	<!-- footer -->
+	<div class="footer-wrap">
+		<div class="wrapper">
+							<div class="footer-1">
+							<div class="moduletable">
+					<ul class="side-menu">
+<li class="item-143"><a href="/politicas-de-garantia" >Políticas de Garantía</a></li><li class="item-144"><a href="/politicas-de-envio" >Politicas de Envío</a></li><li class="item-265"><a href="/mayoristas" >Mayoristas</a></li></ul>
+		</div>
+			<div class="moduletable">
+					
+
+<div class="custom"  >
+	<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/icono-tarjetas.png" alt="icono-tarjetas" /></p></div>
+		</div>
+	
+				</div>
+														</div>
+	</div>
+	<div class="clr"></div>
+	<center class="powerby"  style="font-size: 9pt;"><p>Powered by <a href="https://www.iguate.com" target='_blank' title="Diseño web guatemala">iGuate.com</a></p></center>
+		<!-- //end footer -->
+	
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-3746563-102', 'auto');
+	  ga('send', 'pageview');
+	</script>
+	<!--Start of Tawk.to Script-->
+		<script type="text/javascript">
+		var $_Tawk_API={},$_Tawk_LoadStart=new Date();
+			(function(){
+			var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+			s1.async=true;
+			s1.src='https://embed.tawk.to/546e6f67eebdcbe3577b6808/default';
+			s1.charset='UTF-8';
+			s1.setAttribute('crossorigin','*');
+			s0.parentNode.insertBefore(s1,s0);
+		})();
+		</script>
+	<!--End of Tawk.to Script-->
+	<script type="text/javascript" src="/templates/macrosistemas/js/cloud-zoom.1.0.2.min.js"></script>
+	<script type="text/javascript" src="/templates/macrosistemas/js/javascript.js"></script>
+
+</body>
+
+</html>
+vA��VQ      Y�#XY�#_>�X       h:https://www.macrosistemas.gt/productos/c%C3%A1maras/c%C3%A1maras-de-seguridad/camara-wifi-d-link-detail necko:classified 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Date: Tue, 15 Aug 2017 16:37:44 GMT
+Server: Apache
+X-Logged-In: False
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+ charset UTF-8 uncompressed-len 0 predictor::resource-count 33 predictor::https://www.macrosistemas.gt/components/com_k2/css/k2.css 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/components/com_virtuemart/assets/css/jquery.fancybox-1.3.4.css?vmver=Revision:%208515 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/templates/macrosistemas/css/template.css.php 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/modules/mod_ext_superfish_menu/assets/css/superfish.css 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/media/system/js/mootools-core.js 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/media/system/js/core.js 1,1,1502815064,0 predictor::https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/components/com_k2/js/k2.js?v2.6.9&sitepath=/ 1,1,1502815064,0 predictor::https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js?vmver=Revision:%208515 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/components/com_virtuemart/assets/js/jquery.noconflict.js?vmver=Revision:%208515 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/components/com_virtuemart/assets/js/vmprices.js?vmver=Revision:%208515 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/components/com_virtuemart/assets/js/fancybox/jquery.fancybox-1.3.4.pack.js?vmver=Revision:%208515 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/templates/macrosistemas/js/logic.js 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/templates/macrosistemas/js/jquery.meanmenu.min.js 1,1,1502815064,0 predictor::https://maps.googleapis.com/maps/api/js?key=AIzaSyBu1JdnkTn0EqoU-ksBlSLKWeH3-FrzZx0 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/product/camara-dlink-2.jpg 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/product/resized/camara-dlink-2_500x500.jpg 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/product/resized/camara-dlink-3_500x500.jpg 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/images/stories/virtuemart/product/resized/camara-dlink-1_500x500.jpg 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/templates/macrosistemas/js/cloud-zoom.1.0.2.min.js 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/templates/macrosistemas/js/javascript.js 1,1,1502815064,0 predictor::https://csi.gstatic.com/csi?v=2&s=mapsapi3&v3v=30.1&action=apiboot2&e=10_1_0,10_2_0&rt=main.18 1,1,1502815064,0 predictor::https://www.googletagmanager.com/gtm.js?id=GTM-WD2NJM2 1,1,1502815064,0 predictor::https://www.google-analytics.com/analytics.js 1,1,1502815064,0 predictor::https://embed.tawk.to/546e6f67eebdcbe3577b6808/default 1,1,1502815064,0 predictor::https://www.google-analytics.com/collect?v=1&_v=j59&a=145877227&t=pageview&_s=1&dl=https%3A%2F%2Fwww.macrosistemas.gt%2Fproductos%2Fc%25C3%25A1maras%2Fc%25C3%25A1maras-de-seguridad%2Fcamara-wifi-d-link-detail&ul=en-us&de=UTF-8&dt=C%C3%A1maras%20de%20Seguridad%20%3A%20CAMARA%20WIFI%20D-LINK&sd=24-bit&sr=1360x673&vp=1282x578&je=0&_u=AACAAEABI~&jid=&gjid=&cid=1100934596.1502815031&tid=UA-3746563-102&_gid=2012697959.1502815031&z=169543055 1,1,1502815064,0 predictor::https://cdn.jsdelivr.net/emojione/2.2.7/assets/css/emojione.min.css 1,1,1502815064,0 predictor::https://cdn.jsdelivr.net/emojione/2.2.7/lib/js/emojione.min.js 1,1,1502815064,0 predictor::https://www.macrosistemas.gt/productos/c%C3%A1maras/c%C3%A1maras-de-seguridad/ 1,1,1502815064,0 predictor::https://maps.googleapis.com/maps-api-v3/api/js/30/1/common.js 1,1,1502815064,0 predictor::https://maps.googleapis.com/maps-api-v3/api/js/30/1/util.js 1,1,1502815064,0 predictor::https://maps.googleapis.com/maps-api-v3/api/js/30/1/stats.js 1,1,1502815064,0 predictor::https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.macrosistemas.gt%2Fproductos%2Fc%25C3%25A1maras%2Fc%25C3%25A1maras-de-seguridad%2Fcamara-wifi-d-link-detail&4sAIzaSyBu1JdnkTn0EqoU-ksBlSLKWeH3-FrzZx0&callback=_xdc_._s6cqy2&token=17669 1,1,1502815064,0   H�

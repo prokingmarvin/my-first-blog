@@ -1,0 +1,45 @@
+11:50:33 [INF][      WBContext]: Parsing application arguments.
+11:50:33 [INF][      WBContext]:     /usr/lib/mysql-workbench/mysql-workbench-bin
+11:50:33 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: /usr/share/mysql-workbench
+	plugin path: /usr/lib/mysql-workbench/plugins
+	struct path: /usr/share/mysql-workbench/grt
+	module path: /usr/lib/mysql-workbench/modules
+	library path: /usr/share/mysql-workbench/libraries
+	user data dir: /home/proking/.mysql/workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+11:50:33 [INF][      WBContext]: WbContext::init
+11:50:35 [INF][            WBA]: Looking for extension modules for WBA...
+11:50:35 [INF][            WBA]: 0 extension modules found
+11:50:36 [WRN][            grt]: /home/proking/.mysql/workbench/server_instances.xml:26: link 'ff8bf14c-7159-11e7-83ac-080027475b11' <object GrtObject> key=owner could not be resolved
+11:50:36 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Linux/Unix version 6.0.8  revision 11354 build 833
+	Configuration Directory: /home/proking/.mysql/workbench
+	Data Directory: /usr/share/mysql-workbench
+	Cairo Version: 1.13.1
+	OS: Linux 3.19.0-25-generic
+	CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz 2394.456 MHz, 2.8 GB RAM
+	Distribution: Ubuntu 14.04.3 LTS
+
+
+11:50:36 [INF][    WQE backend]: Found auto-save workspace /home/proking/.mysql/workbench/sql_workspaces/Conexion-1.autosave
+11:50:41 [INF][     SSH tunnel]: Starting tunnel
+11:50:41 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: NO)Passed MenuItem 'Don't Limit' does not have CheckMenuItem at 0x3adbbe0
+11:50:42 [ERR][   mforms.linux]: Passed MenuItem '10' does not have CheckMenuItem at 0x3a78ef0
+11:50:42 [ERR][   mforms.linux]: Passed MenuItem '50' does not have CheckMenuItem at 0x370d8a0
+11:50:42 [ERR][   mforms.linux]: Passed MenuItem '100' does not have CheckMenuItem at 0x3a88ac0
+11:50:42 [ERR][   mforms.linux]: Passed MenuItem '200' does not have CheckMenuItem at 0x3aa10e0
+11:50:42 [ERR][   mforms.linux]: Passed MenuItem '300' does not have CheckMenuItem at 0x3ac17d0
+11:50:42 [ERR][   mforms.linux]: Passed MenuItem '400' does not have CheckMenuItem at 0x3ad2230
+11:50:42 [ERR][   mforms.linux]: Passed MenuItem '500' does not have CheckMenuItem at 0x3a841c0
+11:50:42 [ERR][   mforms.linux]: Passed MenuItem '1000' does not have CheckMenuItem at 0x3aadcd0
+11:50:42 [ERR][   mforms.linux]: Passed MenuItem '2000' does not have CheckMenuItem at 0x3ac2af0
+11:50:42 [ERR][   mforms.linux]: Passed MenuItem '5000' does not have CheckMenuItem at 0x3af6100
+11:50:42 [ERR][   mforms.linux]: Passed MenuItem '10000' does not have CheckMenuItem at 0x3addbd0
+11:50:42 [ERR][   mforms.linux]: Passed MenuItem '50000' does not have CheckMenuItem at 0x3af05e0

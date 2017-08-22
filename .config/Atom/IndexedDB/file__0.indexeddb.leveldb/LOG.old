@@ -1,0 +1,27 @@
+2017/08/22-02:08:41.992 4087 Reusing MANIFEST /home/proking/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2017/08/22-02:08:41.992 4087 Recovering log #58
+2017/08/22-02:08:42.165 4087 Reusing old log /home/proking/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000058.log 
+2017/08/22-02:10:50.840 4322 Level-0 table #62: started
+2017/08/22-02:10:50.870 4322 Level-0 table #62: 1614239 bytes OK
+2017/08/22-02:10:50.872 4322 Delete type=0 #58
+2017/08/22-02:22:21.096 4322 Level-0 table #64: started
+2017/08/22-02:22:21.191 4322 Level-0 table #64: 1589264 bytes OK
+2017/08/22-02:22:21.194 4322 Delete type=0 #61
+2017/08/22-02:31:39.954 4322 Level-0 table #66: started
+2017/08/22-02:31:39.982 4322 Level-0 table #66: 1593764 bytes OK
+2017/08/22-02:31:39.984 4322 Delete type=0 #63
+2017/08/22-02:31:39.984 4322 Compacting 4@0 + 1@1 files
+2017/08/22-02:31:40.070 4322 Generated table #67@0: 7 keys, 92387 bytes
+2017/08/22-02:31:40.070 4322 Compacted 4@0 + 1@1 files => 92387 bytes
+2017/08/22-02:31:40.071 4322 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/08/22-02:31:40.072 4322 Delete type=2 #66
+2017/08/22-02:31:40.072 4322 Delete type=2 #57
+2017/08/22-02:31:40.072 4322 Delete type=2 #62
+2017/08/22-02:31:40.072 4322 Delete type=2 #64
+2017/08/22-02:31:40.073 4322 Delete type=2 #59
+2017/08/22-02:45:46.367 4322 Level-0 table #69: started
+2017/08/22-02:45:46.404 4322 Level-0 table #69: 1587402 bytes OK
+2017/08/22-02:45:46.406 4322 Delete type=0 #65
+2017/08/22-02:53:15.330 4322 Level-0 table #71: started
+2017/08/22-02:53:15.354 4322 Level-0 table #71: 1546206 bytes OK
+2017/08/22-02:53:15.356 4322 Delete type=0 #68

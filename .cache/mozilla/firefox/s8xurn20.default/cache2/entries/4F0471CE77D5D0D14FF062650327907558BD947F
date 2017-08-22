@@ -1,0 +1,714 @@
+
+<!DOCTYPE HTML>
+<html lang="es" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Comenzar un proyecto en Django · Django Girls Tutorial</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.2">
+        <meta name="author" content="DjangoGirls">
+        
+        
+    
+    <link rel="stylesheet" href="../../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-richquotes/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-language-picker/plugin.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-sidebar-ad/sidebar-ad.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-codeblock-label/block.css">
+                
+            
+                
+                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-sectionx/sectionx.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="../django_models/" />
+    
+    
+    <link rel="prev" href="../django_installation/" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+  
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Escribe para buscar" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+    
+        
+        <li>
+            <a href="https://gitter.im/DjangoGirls/tutorial" target="_blank" class="custom-link">Need help? Talk to us!</a>
+        </li>
+    
+        
+        <li>
+            <a href="https://www.gitbook.com/book/djangogirls/djangogirls-tutorial" target="_blank" class="custom-link">Django Girls Tutorial</a>
+        </li>
+    
+    
+
+    
+    <li class="divider"></li>
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Introducción
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../how_the_internet_works/">
+            
+                <a href="../how_the_internet_works/">
+            
+                    
+                    ¿Cómo funciona Internet?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../intro_to_command_line/">
+            
+                <a href="../intro_to_command_line/">
+            
+                    
+                    Introducción a la línea de comandos
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="../python_installation/">
+            
+                <a href="../python_installation/">
+            
+                    
+                    Instalación de Python
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="../code_editor/">
+            
+                <a href="../code_editor/">
+            
+                    
+                    Editor de código
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="../python_introduction/">
+            
+                <a href="../python_introduction/">
+            
+                    
+                    Introducción a Python
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="../django/">
+            
+                <a href="../django/">
+            
+                    
+                    ¿Qué es Django?
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="../django_installation/">
+            
+                <a href="../django_installation/">
+            
+                    
+                    Instalación de Django
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.9" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    Comenzar un proyecto en Django
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="../django_models/">
+            
+                <a href="../django_models/">
+            
+                    
+                    Modelos en Django
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="../django_admin/">
+            
+                <a href="../django_admin/">
+            
+                    
+                    Administrador de Django
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.12" data-path="../deploy/">
+            
+                <a href="../deploy/">
+            
+                    
+                    ¡Desplegar!
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.13" data-path="../django_urls/">
+            
+                <a href="../django_urls/">
+            
+                    
+                    Django urls
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.14" data-path="../django_views/">
+            
+                <a href="../django_views/">
+            
+                    
+                    Vistas de Django - ¡Es hora de crear!
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.15" data-path="../html/">
+            
+                <a href="../html/">
+            
+                    
+                    Introducción a HTML
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.16" data-path="../django_orm/">
+            
+                <a href="../django_orm/">
+            
+                    
+                    ORM de Django (Querysets)
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.17" data-path="../dynamic_data_in_templates/">
+            
+                <a href="../dynamic_data_in_templates/">
+            
+                    
+                    Datos dinámicos en plantillas
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.18" data-path="../django_templates/">
+            
+                <a href="../django_templates/">
+            
+                    
+                    Plantillas de Django
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.19" data-path="../css/">
+            
+                <a href="../css/">
+            
+                    
+                    CSS - Hazlo bonito
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.20" data-path="../template_extending/">
+            
+                <a href="../template_extending/">
+            
+                    
+                    Extender plantillas
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.21" data-path="../extend_your_application/">
+            
+                <a href="../extend_your_application/">
+            
+                    
+                    Amplía tu aplicación
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.22" data-path="../django_forms/">
+            
+                <a href="../django_forms/">
+            
+                    
+                    Formularios en Django
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.23" data-path="../domain/">
+            
+                <a href="../domain/">
+            
+                    
+                    Dominio
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.24" data-path="../whats_next/">
+            
+                <a href="../whats_next/">
+            
+                    
+                    ¿Qué sigue?
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Publicado con GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+  <div class="sidebar-addition">
+      
+        <a href="https://store.djangogirls.org/" target="_blank">
+      
+        <img src="https://cdn.shopify.com/s/files/1/0992/7712/products/codelikeagirl---mockup4_large.jpg" />
+      
+        </a>
+      
+      
+        <p>💖 Support our work and buy a Django Girls t-shirt! ✨</p>
+      
+      
+      <a href="https://store.djangogirls.org/" class="btn" target="_blank">
+        Get a t-shirt!
+      </a>
+      
+  </div>
+
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Comenzar un proyecto en Django</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="&#xA1;tu-primer-proyecto-en-django">&#xA1;Tu primer proyecto en Django!</h1>
+<blockquote>
+<p>Parte de este capitulo esta basado en los tutoriales de Geek Girls Carrots (<a href="https://github.com/ggcarrots/django-carrots" target="_blank">https://github.com/ggcarrots/django-carrots</a>).</p>
+<p>Parte de este cap&#xED;tulo se basa en el <a href="http://django-marcador.keimlink.de/" target="_blank">django-marcador tutorial</a> bajo licencia de Creative Commons Attribution-ShareAlike 4.0 internacional. El tutorial de django-marcador tiene derechos de autor de Markus Zapke-G&#xFC;ndemann et al.</p>
+</blockquote>
+<p>&#xA1;Vamos a crear un simple blog!</p>
+<p>El primer paso para crearlo es iniciar un nuevo proyecto en Django. B&#xE1;sicamente, esto significa que podr&#xE1;s correr algunos scripts proporcionados por Django que crear&#xE1;n el esqueleto de un proyecto para nosotros: un mont&#xF3;n de directorios y archivos que vamos a utilizar m&#xE1;s adelante.</p>
+<p>Los nombres de algunos archivos y directorios son muy importantes para Django. No deber&#xED;as renombrar los archivos que estamos a punto de crear. Moverlos a un lugar diferente tampoco es una buena idea. Django tiene que mantener una cierta estructura para ser capaz de encontrar cosas importantes.</p>
+<blockquote>
+<p>Recuerda correr todo en el virtualenv. Si no ves un prefijo <code>(myvenv)</code> en tu consola necesitas activar tu virtualenv. Explicamos c&#xF3;mo hacer eso en el cap&#xED;tulo de <strong>Instalaci&#xF3;n de Django</strong> en la secci&#xF3;n <strong>Trabajando con virtualenv</strong>. Puedes hacerlo escribiendo el siguiente comando: <code>myvenv\Scripts\activate</code> en Windows o <code>source myvenv/bin/activate</code> en Mac OS / Linux.</p>
+<p><strong>Nota</strong> Verifica dos veces que hayas incluido el punto (<code>.</code>) al final del comando, es importante porque le dice al script que instale Django en el directorio actual.</p>
+</blockquote>
+<p>En la consola debes ejecutar (recuerda no escribir <code>(myvenv) ~/djangogirls$</code>, &#xBF;ok?):</p>
+<pre><code>(myvenv) ~/djangogirls$ django-admin startproject mysite .
+</code></pre><p>En Windows:</p>
+<pre><code>(myvenv) C:\Users\Name\djangogirls&gt; django-admin.py startproject mysite .
+</code></pre><blockquote>
+<p><strong>Nota</strong> Verifica dos veces que hayas incluido el punto (<code>.</code>) al final del comando, es importante porque le dice al script que instale Django en el directorio actual.</p>
+</blockquote>
+<p><code>django-admin.py</code> es un script que crear&#xE1; los archivos y directorios para ti. Ahora deber&#xED;as tener una estructura de directorios parecida a esto:</p>
+<pre><code>djangogirls
+&#x251C;&#x2500;&#x2500;&#x2500;manage.py
+&#x2514;&#x2500;&#x2500;&#x2500;mysite
+        settings.py
+        urls.py
+        wsgi.py
+        __init__.py
+</code></pre><p><code>manage.py</code> es un script que ayuda con la administraci&#xF3;n del sitio. Con ello podremos iniciar un servidor web en nuestro ordenador sin necesidad de instalar nada m&#xE1;s, entre otras cosas.</p>
+<p>El archivo <code>settings.py</code> contiene la configuraci&#xF3;n de tu sitio web.</p>
+<p>&#xBF;Recuerdas cuando hablamos de un cartero que deb&#xED;a comprobar donde entregar una carta? El archivo <code>urls.py</code> contiene una lista de los patrones utilizados por <code>urlresolver</code>.</p>
+<p>Ignoremos los otros archivos por ahora - no los cambiaremos. &#xA1;Lo &#xFA;nico que debes recordar es no borrarlos por accidente!</p>
+<h2 id="cambiando-la-configuraci&#xF3;n">Cambiando la configuraci&#xF3;n</h2>
+<p>Vamos a hacer algunos cambios en <code>mysite/settings.py</code>. Abre el archivo usando el editor de c&#xF3;digo que has instalado anteriormente.</p>
+<p>Ser&#xED;a bueno tener el horario correcto en nuestro sitio web. Ve a la <a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones" target="_blank">lista de husos horarios de Wikipedia</a> y copia tu zona horaria (TZ). (por ejemplo, <code>Europe/Berlin</code> )</p>
+<p>En settings.py, encuentra la l&#xED;nea que contiene <code>TIME_ZONE</code> y modif&#xED;cala para elegir tu propia zona horaria:</p>
+<pre><code class="lang-python">    TIME_ZONE = <span class="hljs-string">&apos;Europe/Berlin&apos;</span>
+</code></pre>
+<p>Modificando &quot;Europe/Berlin&quot; como corresponda</p>
+<p>Tambi&#xE9;n necesitaremos agregar una ruta para los archivos est&#xE1;ticos (aprenderemos todo sobre los archivos est&#xE1;ticos y CSS m&#xE1;s tarde en este tutorial). Ve hacia abajo hasta el <em>final</em> del archivo, y justo por debajo de la entrada <code>STATIC_URL</code>, agrega una nueva llamada <code>STATIC_ROOT</code>:</p>
+<pre><code class="lang-python">    STATIC_URL = <span class="hljs-string">&apos;/static/&apos;</span>
+    STATIC_ROOT = os.path.join(BASE_DIR, <span class="hljs-string">&apos;static&apos;</span>)
+</code></pre>
+<h2 id="configurar-una-base-de-datos">Configurar una base de datos</h2>
+<p>Hay una gran variedad de opciones de bases de datos para almacenar los datos de tu sitio. Utilizaremos el que viene por defecto, <code>sqlite3</code>.</p>
+<p>Esto ya est&#xE1; configurado en esta parte de tu archivo <code>mysite/settings.py</code>:</p>
+<pre><code class="lang-python">    DATABASES = {
+        <span class="hljs-string">&apos;default&apos;</span>: {
+            <span class="hljs-string">&apos;ENGINE&apos;</span>: <span class="hljs-string">&apos;django.db.backends.sqlite3&apos;</span>,
+            <span class="hljs-string">&apos;NAME&apos;</span>: os.path.join(BASE_DIR, <span class="hljs-string">&apos;db.sqlite3&apos;</span>),
+        }
+    }
+</code></pre>
+<p>Para crear una base de datos para nuestro blog, ejecutemos lo siguiente en la consola: <code>python manage.py migrate</code> (necesitamos estar en el directorio de <code>djangogirls</code> que contiene el archivo <code>manage.py</code>). Si eso va bien, deber&#xED;as ver algo as&#xED;:</p>
+<pre><code>(myvenv) ~/djangogirls$ python manage.py migrate
+Operations to perform:
+  Apply all migrations: admin, contenttypes, auth, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying sessions.0001_initial... OK
+</code></pre><p>&#xA1;Y listo! &#xA1;Es hora de iniciar el servidor web y ver si nuestro sitio web est&#xE1; funcionando!</p>
+<p>Debes estar en el directorio que contiene el archivo <code>manage.py</code> (en la carpeta <code>djangogirls</code>). En la consola, podemos iniciar el servidor web ejecutando <code>python manage.py runserver</code>:</p>
+<pre><code>(myvenv) ~/djangogirls$ python manage.py runserver
+</code></pre><p>Ahora todo lo que debes hacer es verificar que tu sitio est&#xE9; corriendo - abre tu navegador (Firefox, Chrome, Safari, Internet Explorer o el que utilices) e ingresa la direcci&#xF3;n:</p>
+<pre><code>http://127.0.0.1:8000/
+</code></pre><p>El servidor web se apropiar&#xE1; de tu consola hasta que lo termines manualmente: para tipear m&#xE1;s comandos o abres una nueva terminal (y no te olvides de activar tu virtualenv all&#xED; tambi&#xE9;n), o frena el servidor web yendo a la consola en la que est&#xE1; corriendo y presionando Ctrl+C - las teclas Control y C juntas (en Windows, deber&#xE1;s presionar Ctrl + Break).</p>
+<p>&#xA1;Felicitaciones! &#xA1;Has creado tu primer sitio web y lo has ejecutado usando un servidor web! &#xBF;No es genial?</p>
+<p><img src="images/it_worked2.png" alt="&#xA1;Funcion&#xF3;!"></p>
+<p>&#xBF;Lista para el pr&#xF3;ximo paso? &#xA1;Es momento de crear algo de contenido!</p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="../django_installation/" class="navigation navigation-prev " aria-label="Previous page: Instalación de Django">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="../django_models/" class="navigation navigation-next " aria-label="Next page: Modelos en Django">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Comenzar un proyecto en Django","level":"1.9","depth":1,"next":{"title":"Modelos en Django","level":"1.10","depth":1,"path":"django_models/README.md","ref":"django_models/README.md","articles":[]},"previous":{"title":"Instalación de Django","level":"1.8","depth":1,"path":"django_installation/README.md","ref":"django_installation/README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["heading-anchors@1.0.3","ga@1.0.1","richquotes@0.0.7","github@2.0.0","language-picker","sidebar-ad","codeblock-label","sectionx",""],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"language-picker":{"grid-columns":3},"github":{"url":"https://github.com/DjangoGirls/tutorial"},"codeblock-label":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"richquotes":{"default":false},"sectionx":{},"heading-anchors":{},"sidebar-ad":{"imageUrl":"https://cdn.shopify.com/s/files/1/0992/7712/products/codelikeagirl---mockup4_large.jpg","url":"https://store.djangogirls.org/","description":"💖 Support our work and buy a Django Girls t-shirt! ✨","btnText":"Get a t-shirt!"},"highlight":{},"ga":{"configuration":"auto","token":"UA-51680040-3"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"github":"DjangoGirls/tutorial","theme":"default","author":"DjangoGirls","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Django Girls Tutorial","language":"es","links":{"sidebar":{"Need help? Talk to us!":"https://gitter.im/DjangoGirls/tutorial","Django Girls Tutorial":"https://www.gitbook.com/book/djangogirls/djangogirls-tutorial"},"gitbook":true},"gitbook":"*","description":"This book is a Django tutorial created for DjangoGirls event."},"file":{"path":"django_start_project/README.md","mtime":"2017-07-24T19:55:58.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-07-24T19:56:44.994Z"},"basePath":"..","book":{"language":"es"}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../../gitbook/gitbook.js"></script>
+    <script src="../../gitbook/theme.js"></script>
+    
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/1.2.1/anchor.min.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-heading-anchors/anchor-style.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-ga/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-github/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-language-picker/plugin.js"></script>
+        
+    
+        
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-sectionx/sectionx.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    
+<div><script style="display: none;" type="application/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57505611-7', 'auto', {name: 'microcdn'});
+  ga('microcdn.send', 'pageview');
+
+  var _cdn_prev_loc = window.location.pathname;
+  window.setInterval(function () {
+    if (window.location.pathname !== _cdn_prev_loc) {
+      _cdn_prev_loc = window.location.pathname;
+      ga('microcdn.send', 'pageview');
+    }
+  }, 100);
+
+</script></div>
+</body>
+</html>
+
+@D����      Y�'.Y�'3>�Y�'3   ::https://tutorial.djangogirls.org/es/django_start_project/ security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAQAAgAAAAAAAAAAAAAAAAAAAAAB4vFIJp5wRkeyPxAQ9RJGKPqbqVvKO0mKuIl8ec8o/uhmCjImkVxP+7sgiYWmMt8F+O2DZM7ZTG6GukivU8OT5gAAAAAAAAUXMIIFEzCCA/ugAwIBAgISA+ipYohAMNhy3flAI+WuTCBdMA0GCSqGSIb3DQEBCwUAMEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQDExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xNzA3MTQwNTI2MDBaFw0xNzEwMTIwNTI2MDBaMCMxITAfBgNVBAMTGHR1dG9yaWFsLmRqYW5nb2dpcmxzLm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKPJV95O3GN3kXWS3uMKQ2aJQpV1j7UGARQQYUSxTyrsFfNkMbRB0704yduwGuD3brC2jYSIfaTsmONbpUibJXa2OT+o8hVaHVDPlNYGhwzZdv0Xc+qdXoyAaA42IlGpUHhY0CeOAyCf9E4bUo2/ZtcIPt/Me1KqcppEOTMZdnhuqj75E+2hFEIlWgHJ1cOy+pmwPKNkXjfIiXBlqIWuRsIjgbmwb+kvWD5VN9vU1lMeDicCSxGERPw2DAMUUoA25my72xFcangsqeCaSR59vBwIq26BK+4aN4opISXWMpepjpngWQhb1io8fZjloMbZ5NjlCfm21jQM0BdntKKYHY8CAwEAAaOCAhgwggIUMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUbpFg8N75WU6uFMLaLZkK5Dh0UgwwHwYDVR0jBBgwFoAUqEpqYwR93brm0Tm3pkVl7/Oo7KEwbwYIKwYBBQUHAQEEYzBhMC4GCCsGAQUFBzABhiJodHRwOi8vb2NzcC5pbnQteDMubGV0c2VuY3J5cHQub3JnMC8GCCsGAQUFBzAChiNodHRwOi8vY2VydC5pbnQteDMubGV0c2VuY3J5cHQub3JnLzAjBgNVHREEHDAaghh0dXRvcmlhbC5kamFuZ29naXJscy5vcmcwgf4GA1UdIASB9jCB8zAIBgZngQwBAgEwgeYGCysGAQQBgt8TAQEBMIHWMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCBqwYIKwYBBQUHAgIwgZ4MgZtUaGlzIENlcnRpZmljYXRlIG1heSBvbmx5IGJlIHJlbGllZCB1cG9uIGJ5IFJlbHlpbmcgUGFydGllcyBhbmQgb25seSBpbiBhY2NvcmRhbmNlIHdpdGggdGhlIENlcnRpZmljYXRlIFBvbGljeSBmb3VuZCBhdCBodHRwczovL2xldHNlbmNyeXB0Lm9yZy9yZXBvc2l0b3J5LzANBgkqhkiG9w0BAQsFAAOCAQEAX+3FLCPJoJgltLdc03xhyuHXqN/+TCaRTPMFPpTTdTOXkDNDmlL2k/cq+8ouMrWYouD9TuUCg4r4g4u5PFbTnNRxg72P68bHXcFk5H92DJj1Rj+24BqeK+3fEY6tI8dQcz7qfVtFic+HvBXwFoD0xf3eTfQPhRKabL8GoYcq3+pm7Y0vRrvYo1EgguAwTLtgX1M6uWx6xzYbFO6CJF3EIRKSMCgJPfspb618c342L457eFjR9we3mrKoOkDh1GPRIc/1JlTLOSK2T7tC0B2dj4+vaj2EGXKECRdDn/atDyEy7Nye5SKZlKqe4Jo3m/YWaXMGhYcSWbbHTsD1TsHqx8AvAAMAAAAAAQEAAA== request-method GET request-Accept-Encoding gzip, deflate response-head HTTP/2.0 200 OK
+Age: 486
+Content-Encoding: identity
+Content-Type: text/html
+Etag: W/"821429ef6ffa1d181aa547cb33486c0b"
+Last-Modified: Tue, 15 Aug 2017 16:46:05 GMT
+Vary: Accept-Encoding
+X-Cache: HIT
+x-cdn-cache-group: djangogirls/djangogirls-tutorial
+Date: Tue, 15 Aug 2017 16:54:11 GMT
+X-Firefox-Spdy: h2
+ predictor::resource-count 3 predictor::https://www.google-analytics.com/r/collect?v=1&_v=j59&a=1989909004&t=pageview&_s=4&dl=https%3A%2F%2Ftutorial.djangogirls.org%2Fes%2F&dr=http%3A%2F%2Fvirtual.mesoamericana.edu.gt%2Fmod%2Furl%2Fview.php%3Fid%3D30567&ul=en-us&de=UTF-8&dt=Instalaci%C3%B3n%20de%20Django%20%C2%B7%20Django%20Girls%20Tutorial&sd=24-bit&sr=1360x673&vp=1295x578&je=0&_u=KEDAAEABI~&jid=772469432&gjid=1532419968&cid=409495460.1502814498&tid=UA-57505611-7&_gid=804148289.1502814498&_r=1&z=2140412024 1,1,1502816046,0 predictor::https://tutorial.djangogirls.org/es/django_start_project/images/it_worked2.png 1,1,1502816046,0 predictor::https://www.google-analytics.com/r/collect?v=1&_v=j59&a=1989909004&t=pageview&_s=4&dl=https%3A%2F%2Ftutorial.djangogirls.org%2Fes%2F&dr=http%3A%2F%2Fvirtual.mesoamericana.edu.gt%2Fmod%2Furl%2Fview.php%3Fid%3D30567&dp=%2Fes%2Fdjango_start_project%2F&ul=en-us&de=UTF-8&dt=Comenzar%20un%20proyecto%20en%20Django%20%C2%B7%20Django%20Girls%20Tutorial&sd=24-bit&sr=1360x673&vp=1295x578&je=0&_u=KEDAAEABI~&jid=1147272808&gjid=585140399&cid=409495460.1502814498&tid=UA-51680040-3&_gid=804148289.1502814498&_r=1&z=93783318 1,1,1502816046,0   dk

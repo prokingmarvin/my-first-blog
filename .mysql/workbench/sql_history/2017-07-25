@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ENTRY timestamp='10:59:15'>CREATE SCHEMA `BaseDatos1` DEFAULT CHARACTER SET utf8 COLLATE utf8_spanish_ci</ENTRY>
+<ENTRY timestamp='11:01:09'>CREATE TABLE `BaseDatos1`.`Tabla1` (&#x0A;  `id` INT NOT NULL,&#x0A;  `Nombre` VARCHAR(100) NOT NULL,&#x0A;  `Numero` VARCHAR(45) NOT NULL,&#x0A;  PRIMARY KEY (`id`))</ENTRY>
+<ENTRY timestamp='11:48:50'>ALTER TABLE `BaseDatos1`.`Tabla1` &#x0A;CHANGE COLUMN `id` `id` INT(11) NOT NULL AUTO_INCREMENT</ENTRY>
+<ENTRY timestamp='11:49:12'>SELECT * FROM BaseDatos1.Tabla1</ENTRY>

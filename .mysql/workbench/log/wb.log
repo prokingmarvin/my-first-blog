@@ -1,0 +1,121 @@
+02:11:37 [INF][      WBContext]: Parsing application arguments.
+02:11:37 [INF][      WBContext]:     /usr/lib/mysql-workbench/mysql-workbench-bin
+02:11:38 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: /usr/share/mysql-workbench
+	plugin path: /usr/lib/mysql-workbench/plugins
+	struct path: /usr/share/mysql-workbench/grt
+	module path: /usr/lib/mysql-workbench/modules
+	library path: /usr/share/mysql-workbench/libraries
+	user data dir: /home/proking/.mysql/workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+02:11:38 [INF][      WBContext]: WbContext::init
+02:11:40 [INF][            WBA]: Looking for extension modules for WBA...
+02:11:40 [INF][            WBA]: 0 extension modules found
+02:11:40 [WRN][            grt]: /home/proking/.mysql/workbench/connections.xml:24: link '8e0d2400-81d5-11e7-9614-080027475b11' <object GrtObject> key=owner could not be resolved
+02:11:40 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Linux/Unix version 6.0.8  revision 11354 build 833
+	Configuration Directory: /home/proking/.mysql/workbench
+	Data Directory: /usr/share/mysql-workbench
+	Cairo Version: 1.13.1
+	OS: Linux 3.19.0-25-generic
+	CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz 2394.454 MHz, 2.8 GB RAM
+	Distribution: Ubuntu 14.04.3 LTS
+
+
+02:11:40 [INF][    WQE backend]: Found auto-save workspace /home/proking/.mysql/workbench/sql_workspaces/Conexion-1.autosave
+02:11:42 [INF][     SSH tunnel]: Starting tunnel
+02:11:43 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: NO)Passed MenuItem 'Don't Limit' does not have CheckMenuItem at 0x38301a0
+02:11:43 [ERR][   mforms.linux]: Passed MenuItem '10' does not have CheckMenuItem at 0x3844420
+02:11:43 [ERR][   mforms.linux]: Passed MenuItem '50' does not have CheckMenuItem at 0x3824910
+02:11:43 [ERR][   mforms.linux]: Passed MenuItem '100' does not have CheckMenuItem at 0x37cb6c0
+02:11:43 [ERR][   mforms.linux]: Passed MenuItem '200' does not have CheckMenuItem at 0x3838a10
+02:11:43 [ERR][   mforms.linux]: Passed MenuItem '300' does not have CheckMenuItem at 0x3844640
+02:11:43 [ERR][   mforms.linux]: Passed MenuItem '400' does not have CheckMenuItem at 0x382b820
+02:11:43 [ERR][   mforms.linux]: Passed MenuItem '500' does not have CheckMenuItem at 0x384afa0
+02:11:43 [ERR][   mforms.linux]: Passed MenuItem '1000' does not have CheckMenuItem at 0x3805450
+02:11:43 [ERR][   mforms.linux]: Passed MenuItem '2000' does not have CheckMenuItem at 0x3838730
+02:11:43 [ERR][   mforms.linux]: Passed MenuItem '5000' does not have CheckMenuItem at 0x38484f0
+02:11:43 [ERR][   mforms.linux]: Passed MenuItem '10000' does not have CheckMenuItem at 0x384a5c0
+02:11:43 [ERR][   mforms.linux]: Passed MenuItem '50000' does not have CheckMenuItem at 0x3845020
+02:25:57 [INF][wb_admin_control.pyc]: WbAdminControl.connect_sql(): The server version stored in the server instance profile was "5.1". Changed to the version reported by the server: "5.5.57-0ubuntu0.14.04.1"
+02:25:57 [ERR][wb_admin_control.pyc]: Could not open the file "/etc/mysql/my.cnf": 'NoneType' object has no attribute 'get_file_content'Created SQL connection to MySQL server. Server version is (5, 5, 57), conn status = True, active plugins = ['partition', 'INNODB_CMPMEM_RESET', 'INNODB_BUFFER_POOL_STATS', 'CSV', 'mysql_native_password', 'INNODB_BUFFER_PAGE', 'InnoDB', 'ARCHIVE', 'INNODB_CMP', 'INNODB_TRX', 'binlog', 'INNODB_LOCKS', 'INNODB_CMPMEM', 'INNODB_LOCK_WAITS', 'MEMORY', 'MRG_MYISAM', 'PERFORMANCE_SCHEMA', 'mysql_old_password', 'BLACKHOLE', 'MyISAM', 'INNODB_CMP_RESET', 'INNODB_BUFFER_PAGE_LRU']
+02:25:57 [INF][wb_admin_grt.pyc]: AdministratorContext: Server version (5, 5, 57) is supported
+02:25:57 [INF][wb_admin_control.pyc]: Target OS detection returned: os_type=linux, os_name=Linux, os_variant=Ubuntu, os_version=14.04
+02:26:07 [ERR][wb_admin_control.pyc]: Could not open the file "/etc/mysql/my.cnf": 'NoneType' object has no attribute 'get_file_content'Created SQL connection to MySQL server. Server version is (5, 5, 57), conn status = True, active plugins = ['partition', 'INNODB_CMPMEM_RESET', 'INNODB_BUFFER_POOL_STATS', 'CSV', 'mysql_native_password', 'INNODB_BUFFER_PAGE', 'InnoDB', 'ARCHIVE', 'INNODB_CMP', 'INNODB_TRX', 'binlog', 'INNODB_LOCKS', 'INNODB_CMPMEM', 'INNODB_LOCK_WAITS', 'MEMORY', 'MRG_MYISAM', 'PERFORMANCE_SCHEMA', 'mysql_old_password', 'BLACKHOLE', 'MyISAM', 'INNODB_CMP_RESET', 'INNODB_BUFFER_PAGE_LRU']
+02:26:07 [INF][wb_admin_grt.pyc]: AdministratorContext: Server version (5, 5, 57) is supported
+02:39:51 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: NO)Passed MenuItem 'Don't Limit' does not have CheckMenuItem at 0x42483f0
+02:39:51 [ERR][   mforms.linux]: Passed MenuItem '10' does not have CheckMenuItem at 0x4248810
+02:39:51 [ERR][   mforms.linux]: Passed MenuItem '50' does not have CheckMenuItem at 0x3fbb6c0
+02:39:51 [ERR][   mforms.linux]: Passed MenuItem '100' does not have CheckMenuItem at 0x41f0a30
+02:39:51 [ERR][   mforms.linux]: Passed MenuItem '200' does not have CheckMenuItem at 0x41f97b0
+02:39:51 [ERR][   mforms.linux]: Passed MenuItem '300' does not have CheckMenuItem at 0x4224c40
+02:39:51 [ERR][   mforms.linux]: Passed MenuItem '400' does not have CheckMenuItem at 0x4244d10
+02:39:51 [ERR][   mforms.linux]: Passed MenuItem '500' does not have CheckMenuItem at 0x425bc30
+02:39:51 [ERR][   mforms.linux]: Passed MenuItem '1000' does not have CheckMenuItem at 0x425cbe0
+02:39:51 [ERR][   mforms.linux]: Passed MenuItem '2000' does not have CheckMenuItem at 0x425e7d0
+02:39:51 [ERR][   mforms.linux]: Passed MenuItem '5000' does not have CheckMenuItem at 0x425c560
+02:39:51 [ERR][   mforms.linux]: Passed MenuItem '10000' does not have CheckMenuItem at 0x425d1e0
+02:39:51 [ERR][   mforms.linux]: Passed MenuItem '50000' does not have CheckMenuItem at 0x425d060
+02:42:16 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: NO)exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: YES)exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: YES)Got an exception during connection: Canceled by user
+02:42:29 [ERR][      SqlEditor]: SQL editor could not be connected: Canceled by user
+02:42:29 [ERR][      SqlEditor]: Your connection attempt failed for user 'root' from your host to server at 127.0.0.1:3306:
+  Canceled by user
+
+Please:
+1 Check that mysql is running on server 127.0.0.1
+2 Check that mysql is running on port 3306 (note: 3306 is the default, but this can be changed)
+3 Check the root has rights to connect to 127.0.0.1 from your address (mysql rights define what clients can connect to the server and from which machines) 
+4 Make sure you are both providing a password if needed and using the correct password for 127.0.0.1 connecting from the host address you're connecting from
+02:42:33 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: NO)Passed MenuItem 'Don't Limit' does not have CheckMenuItem at 0x431d560
+02:42:37 [ERR][   mforms.linux]: Passed MenuItem '10' does not have CheckMenuItem at 0x42ba790
+02:42:37 [ERR][   mforms.linux]: Passed MenuItem '50' does not have CheckMenuItem at 0x43318f0
+02:42:37 [ERR][   mforms.linux]: Passed MenuItem '100' does not have CheckMenuItem at 0x4312fd0
+02:42:37 [ERR][   mforms.linux]: Passed MenuItem '200' does not have CheckMenuItem at 0x3f1ac60
+02:42:37 [ERR][   mforms.linux]: Passed MenuItem '300' does not have CheckMenuItem at 0x42e8060
+02:42:37 [ERR][   mforms.linux]: Passed MenuItem '400' does not have CheckMenuItem at 0x4308ec0
+02:42:37 [ERR][   mforms.linux]: Passed MenuItem '500' does not have CheckMenuItem at 0x4337c30
+02:42:37 [ERR][   mforms.linux]: Passed MenuItem '1000' does not have CheckMenuItem at 0x4317a10
+02:42:37 [ERR][   mforms.linux]: Passed MenuItem '2000' does not have CheckMenuItem at 0x4336270
+02:42:37 [ERR][   mforms.linux]: Passed MenuItem '5000' does not have CheckMenuItem at 0x4336b30
+02:42:37 [ERR][   mforms.linux]: Passed MenuItem '10000' does not have CheckMenuItem at 0x4335900
+02:42:37 [ERR][   mforms.linux]: Passed MenuItem '50000' does not have CheckMenuItem at 0x43321d0
+02:43:44 [ERR][             UI]: editor index 1 is unknown
+02:57:17 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: NO)exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: YES)Got an exception during connection: Access denied for user 'root'@'localhost' (using password: YES)
+02:57:21 [ERR][      SqlEditor]: SQL editor could not be connected: Access denied for user 'root'@'localhost' (using password: YES)
+02:57:21 [ERR][      SqlEditor]: Your connection attempt failed for user 'root' from your host to server at 127.0.0.1:3306:
+  Access denied for user 'root'@'localhost' (using password: YES)
+
+Please:
+1 Check that mysql is running on server 127.0.0.1
+2 Check that mysql is running on port 3306 (note: 3306 is the default, but this can be changed)
+3 Check the root has rights to connect to 127.0.0.1 from your address (mysql rights define what clients can connect to the server and from which machines) 
+4 Make sure you are both providing a password if needed and using the correct password for 127.0.0.1 connecting from the host address you're connecting from
+02:57:25 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: NO)exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: YES)Got an exception during connection: Access denied for user 'root'@'localhost' (using password: YES)
+02:57:30 [ERR][      SqlEditor]: SQL editor could not be connected: Access denied for user 'root'@'localhost' (using password: YES)
+02:57:30 [ERR][      SqlEditor]: Your connection attempt failed for user 'root' from your host to server at 127.0.0.1:3306:
+  Access denied for user 'root'@'localhost' (using password: YES)
+
+Please:
+1 Check that mysql is running on server 127.0.0.1
+2 Check that mysql is running on port 3306 (note: 3306 is the default, but this can be changed)
+3 Check the root has rights to connect to 127.0.0.1 from your address (mysql rights define what clients can connect to the server and from which machines) 
+4 Make sure you are both providing a password if needed and using the correct password for 127.0.0.1 connecting from the host address you're connecting from
+02:57:32 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: NO)Passed MenuItem 'Don't Limit' does not have CheckMenuItem at 0x4966c10
+02:57:33 [ERR][   mforms.linux]: Passed MenuItem '10' does not have CheckMenuItem at 0x4967030
+02:57:33 [ERR][   mforms.linux]: Passed MenuItem '50' does not have CheckMenuItem at 0x497afa0
+02:57:33 [ERR][   mforms.linux]: Passed MenuItem '100' does not have CheckMenuItem at 0x46e2ec0
+02:57:33 [ERR][   mforms.linux]: Passed MenuItem '200' does not have CheckMenuItem at 0x4918010
+02:57:33 [ERR][   mforms.linux]: Passed MenuItem '300' does not have CheckMenuItem at 0x494bc50
+02:57:33 [ERR][   mforms.linux]: Passed MenuItem '400' does not have CheckMenuItem at 0x495d280
+02:57:33 [ERR][   mforms.linux]: Passed MenuItem '500' does not have CheckMenuItem at 0x4936c00
+02:57:33 [ERR][   mforms.linux]: Passed MenuItem '1000' does not have CheckMenuItem at 0x496f5b0
+02:57:33 [ERR][   mforms.linux]: Passed MenuItem '2000' does not have CheckMenuItem at 0x49610c0
+02:57:33 [ERR][   mforms.linux]: Passed MenuItem '5000' does not have CheckMenuItem at 0x4980900
+02:57:33 [ERR][   mforms.linux]: Passed MenuItem '10000' does not have CheckMenuItem at 0x497ffa0
+02:57:33 [ERR][   mforms.linux]: Passed MenuItem '50000' does not have CheckMenuItem at 0x497b880

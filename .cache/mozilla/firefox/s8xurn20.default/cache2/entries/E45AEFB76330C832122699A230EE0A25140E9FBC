@@ -1,0 +1,300 @@
+var TG_Moregames = {
+
+	rootURL : 'http://marketing-cloud.travian.com/moregames/',
+	
+	bodyOverflow : null,
+
+
+	popupTitles : {
+		'de-DE' : 'Mehr Spiele',
+		'cs-CZ' : 'Další prohlížečové hry',
+		'da-DK' : 'Flere spil',		
+		'bs-BA' : 'Još igara',
+		'bg-BG' : 'Още игри',
+		'en-US' : 'More games',
+		'en-GB' : 'More games',
+		'en-ZA' : 'More games',				
+		'en-IN' : 'More games',						
+		'fi-FI' : 'Lisää pelejä',
+		'fr-FR' : 'Plus de jeux',
+		'el-GR' : 'Άλλα παιχνίδια',
+		'hr-HR' : 'Više igara',
+		'hu-HU' : 'Még több játék',
+		'he-IL' : "משחקים נוספים",
+		'it-IT' : "Altri giochi",
+		'lt-LT' : "Kiti žaidimai",
+		'es-ES' : "Más juegos",
+		'nl-NL' : "Meer spellen",
+
+		'no-NO' : 'Andre spill', 
+		'pl-PL' : 'Więcej gier', 
+		'pt-PT' : 'Mais jogos', 
+		'ro-RO' : 'Mai multe jocuri', 
+		'sr-RS' : 'Више игрица', 
+		'ru-RU' : 'Другие игры', 
+		'sv-SE' : 'Fler Spel', 
+		'sl-SI' : 'Več iger', 
+		'sk-SK' : 'Viac hier', 
+		'tr-TR' : 'Daha fazla oyun', 
+		'uk-UA' : 'Інші ігри', 
+		'et-EE' : 'Teised mÃ¤ngud', 
+		'lv-LV' : 'Citas spēles', 
+		'es-CL' : 'Más Juegos', 
+		'es-AR' : 'Más Juegos', 
+		'es-MX' : 'Más Juegos', 				
+		'pt-BR' : 'Mais jogos', 
+		'zh-TW' : '更多遊戲', 
+		'id-ID' : 'Permainan lain',
+		'vi-VN' : 'Các trò chơi khác',
+		'th-TH' : 'เกมเพิ่มเติม', 
+		'ms-MY' : 'Lebih permainan', 
+		'ar-EG' : 'ألعاب أخرى', 
+		'ar-AE' : 'ألعاب أخرى', 
+		'fa-IR' : 'بازی های‌دیگر',
+		
+		'ja-JP' : '他のゲーム',
+		
+	},
+	
+	buttonTexts : {
+		'de-DE' : "Jetzt spielen!",
+		'cs-CZ' : 'Hrát teď!',
+		'da-DK' : 'Spil nu!',
+		'bs-BA' : 'Igrajtesada!',
+		'bg-BG' : 'Играйтесега!',
+		'en-US' : 'Play now!',
+		'en-IN' : 'Play now!',		
+		'en-GB' : 'Play now!',		
+		'fi-FI' : 'Pelaanyt!',
+		'fr-FR' : 'Jouez maintenant!',	
+		'el-GR' : 'Παίξε  τώρα!',
+		'hr-HR' : 'Igrajtesada!',
+		'hu-HU' : 'Játssz most',
+        'he-IL' : 'שחק  עכשיו!',
+		'it-IT' : "Gioca ora!",
+		'lt-LT' : "Žaisk dabar!",
+		'es-ES' : '¡Juega ahora!',
+		'nl-NL' : 'Speel nu!',
+		
+		'no-NO' : 'Spill nå!',
+		'pl-PL' : 'Zagraj teraz!',
+		'pt-PT' : 'Joga agora!',
+		'ro-RO' : 'Joacă acum!',
+		'sr-RS' : 'Играјте сада!',
+		'ru-RU' : 'Играть сейчас!',
+		'sv-SE' : 'Spela nu!',
+		'sl-SI' : 'Igraj zdaj!',
+		'sk-SK' : 'Poď hrať!',
+		'tr-TR' : 'Hemen oyna!',
+		'uk-UA' : 'Почати гру!',
+		'et-EE' : 'Mängi nüüd!',
+		'lv-LV' : 'Spēlējiet tagad!',
+		'es-CL' : '¡Juega ahora!',
+		'es-AR' : '¡Juega ahora!',		
+		'es-MX' : '¡Juega ahora!',				
+		'pt-BR' : 'Jogar agora!',
+		'zh-TW' : '馬上玩！',
+		'id-ID' : 'Main sekarang!',
+        'vi-VN' : 'Chơi ngay miễn phí!',
+        'th-TH' : 'เล่นฟรีตอนนี้!',
+        'ms-MY' : 'Main sekarang Dengan Percuma!',
+
+		'ar-AE' : 'اِلعبها الآن مجاناً!',
+		'ar-EG' : 'اِلعبها الآن مجاناً!',
+		'ja-JP' : '今すぐ無料でプレイ！'
+
+
+		
+		
+		
+		
+		
+	},
+	
+	
+
+	_generateGamesHTML : function (json) {
+		var html='';
+				
+		for (var i=0; i != json.length;++i) {
+		
+			var game = json[i];
+			
+			var lng = this.language;
+			
+			if (!game.languages.hasOwnProperty(this.language)) {
+				if (game.languages.hasOwnProperty('en-GB')) {
+					lng ='en-GB';
+				} else if (game.languages.hasOwnProperty('en-US')) {
+					lng = 'en-US';
+				}
+			} 
+			
+			var languageNode = game.languages[lng];
+			
+			var title = languageNode.title;
+			var desc = languageNode.description;
+			var link = languageNode.link;
+			
+			html += '<div class="TG_Moregames_game ' + (json.length-1 == i ? 'last' : '') + '">';
+			html += '  <div class="TG_Moregames_thumb"><a href="' + link + '" target="_blank"><img src="' +game.image +'" class="normal" /><img src="' +game.mouseover +'" class="mouseover" style="display:none" /></a></div>';			
+			html += '  <div class="TG_Moregames_text"><span>' + title + '</span><p>' + desc + '</p><a href="' + link + '" class="TG_Moregames_play">' + this.buttonTexts[this.language] + '</a></div>';						
+			html += '  <hr />';			
+			html += '</div>';			
+			
+		}
+				
+		return html;
+	},
+
+	
+	hidePopup : function () {
+
+		jQuery('body').removeClass('TG_Moregames_modal-open');	
+		jQuery('#TG_Moregames').animate({opacity:0}, 200, function () {
+			jQuery('#TG_Moregames_bg').animate({opacity:0},200, function() {
+				jQuery('#TG_Moregames_bg,#TG_Moregames').css('display','none');
+				if (typeof enable_scroll == 'function') { 
+					enable_scroll();
+				}
+				
+			});
+		});
+		
+	
+	},
+	
+	_setupSizes : function () {
+
+		var popup = jQuery('#TG_Moregames');
+		var w=700,h=600,pd=30;
+		
+		if (jQuery(window).width() <= 480) {
+			w = jQuery(window).width() -50;
+			h = jQuery(window).height() -50;
+			pd = 20;
+		}
+		if (jQuery(window).width() > 480 && jQuery(window).width() <= 800) {
+			w = jQuery(window).width() -50;
+			h = jQuery(window).height() -50;
+			pd = 20;
+		}
+
+
+		popup.css('width',w).css('height',h).css('margin-left', w/-2).css('margin-top',h/-2);
+		jQuery('#TG_Moregames .TG_Moregames_wrapper .wrp').css('height',h-(pd*2)-50);
+		
+		jQuery('#TG_Moregames a.close').css('top',-13).css('left',w-15);		
+	
+	},
+	
+	_loadJSON : function(game) {
+		var dt = new Date();
+		var ts = dt.getFullYear().toString() + dt.getMonth().toString() + dt.getDate().toString(); 
+		jQuery('head').append ('<script type="text/javascript" src="' + this.rootURL + 'configs/config_' + game+ '.json?' + ts + '"></script>' );	
+
+	},
+	
+
+	_initPopup : function (game,json) {
+	
+		var html='<div id="TG_Moregames_bg" style="display:none" onclick="TG_Moregames.hidePopup()"></div><div id="TG_Moregames" class="' + game + '" style="display:none">';
+		html += '<div style="height:0px"><a href="javascript:void(0)" onclick="TG_Moregames.hidePopup()" class="close"></a></div>';
+		html += '<h1 class="TG_Moregames">' + this.popupTitles[this.language]+ '</h1>';
+		html += '<div class="TG_Moregames_wrapper"><div class="wrp"><div class="TG_Moregames_games">';
+		html += this._generateGamesHTML(json);
+		html += '</div></div></div>';		
+		html += '</div>';
+		jQuery(html).appendTo(jQuery('body'));
+		
+		this._setupSizes();
+		this._showPopup(game);
+	},
+	
+	_showPopup : function (game) {
+
+
+		var bgOpacity = 0.4;
+		if (game == 'goalunited-legends') {
+			bgOpacity = 0.8;
+		}
+		
+		if (typeof disable_scroll == 'function') { 
+			disable_scroll();
+		}
+
+	
+		jQuery('#TG_Moregames_bg').css('opacity',0).css('display','');
+		jQuery('#TG_Moregames').css('opacity',0).css('display','');
+		jQuery('#TG_Moregames_bg').animate({opacity:bgOpacity}, 200, function () {
+			jQuery('#TG_Moregames').animate({opacity:1},300);
+		});
+	
+		if (game == 'goalunited-pro') {
+			jQuery('body').addClass('TG_Moregames_modal-open');
+
+		}
+	
+	},
+
+	_removePopup: function() {
+		jQuery('#TG_Moregames_bg, #TG_Moregames').remove();
+	},
+
+	_showProgressbar : function () {
+		var html = '<div id="TG_Moregames_progress"><img src="' + this.rootURL + 'ajax-load.gif" /></div>';
+		jQuery(html).appendTo(jQuery('body'));	
+	},
+	
+	jsonLoaded : function() {
+		var self=this;
+		jQuery(window).on('resize', function(){
+			self._setupSizes();
+		});
+		jQuery('#TG_Moregames_progress').remove();
+		this._initPopup(this.game, TG_Moregames_JSON);	
+	
+	},
+	my : 0,
+	show : function (game, language) {
+		
+		if (this.bodyOverflow == null) {
+			this.bodyOverflow = jQuery('body').css('overflow');	
+		}
+		var self=this;
+		jQuery('body').on('touchstart', function(e) { self.my = e.originalEvent.touches[0].clientY;  });
+		jQuery('body').on('touchmove', function(e) { 
+			var cy = e.originalEvent.touches[0].clientY;
+			if (cy-self.my > 0) {
+				if (jQuery('#TG_Moregames .wrp').scrollTop() == 0) {
+					e.preventDefault();return;
+				}
+			}	 
+			self.my = cy;
+
+		 });
+		jQuery('body').css('overflow','hidden').css('height','100%');
+	        	
+		if (['travian-legends', 'travian-kingdoms', 'railnation','truck-nation', 'goalunited-legends', 'miramagia', 'unitedgp', 'goalunited-pro'].indexOf(game) == -1) {
+		
+			console.log('TG more games script: ' + game + ' is not a valid game name');
+			return;
+		}
+		
+		this.game = game;
+		this.language = language;
+		this._removePopup();
+		this._showProgressbar();
+		this._loadJSON(game);			
+
+	}
+
+};v����M      Y-�uY-�K=�}Y>?`   ::http://marketing-cloud.travian.com/moregames/moregames.js necko:classified 1 request-method GET response-head HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 30 May 2017 16:05:31 GMT
+Content-Type: application/x-javascript
+Content-Length: 8210
+Last-Modified: Tue, 24 Jan 2017 08:33:49 GMT
+Etag: "5887116d-2012"
+Accept-Ranges: bytes
+ uncompressed-len 0    

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ENTRY timestamp='02:11:54'>SELECT * FROM URLS.Paginas</ENTRY>
+<ENTRY timestamp='02:30:48'>CREATE TABLE `URLS`.`Webs` (&#x0A;  `idWebs` INT NOT NULL,&#x0A;  `Webs` VARCHAR(100) NULL,&#x0A;  `Descripcion` VARCHAR(999) NULL,&#x0A;  `Keys` VARCHAR(999) NULL,&#x0A;  PRIMARY KEY (`idWebs`))</ENTRY>
+<ENTRY timestamp='02:43:40'>SELECT * FROM URLS.Webs</ENTRY>
+<ENTRY timestamp='02:45:09'>ALTER TABLE `URLS`.`Webs` &#x0A;CHANGE COLUMN `Webs` `Links` VARCHAR(100) CHARACTER SET &apos;utf8&apos; COLLATE &apos;utf8_spanish_ci&apos; NULL DEFAULT NULL</ENTRY>
+<ENTRY timestamp='02:45:23'>SELECT * FROM URLS.Webs</ENTRY>
+<ENTRY timestamp='02:45:35'>~</ENTRY>
+<ENTRY timestamp='02:45:40'>~</ENTRY>
+<ENTRY timestamp='02:50:24'>ALTER TABLE `URLS`.`Webs` &#x0A;CHANGE COLUMN `Keys` `Key` VARCHAR(999) CHARACTER SET &apos;utf8&apos; COLLATE &apos;utf8_spanish_ci&apos; NULL DEFAULT NULL</ENTRY>
+<ENTRY timestamp='03:03:38'>SELECT * FROM URLS.Webs</ENTRY>
+<ENTRY timestamp='03:03:48'>~</ENTRY>

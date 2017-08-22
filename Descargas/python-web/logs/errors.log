@@ -1,0 +1,132 @@
+[Tue Aug 08 10:15:28.069724 2017] [wsgi:error] [pid 2202:tid 140389360895744] [client 127.0.0.1:54654] mod_wsgi (pid=2202): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:15:28.069802 2017] [wsgi:error] [pid 2202:tid 140389360895744] [client 127.0.0.1:54654] mod_wsgi (pid=2202): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:15:28.069822 2017] [wsgi:error] [pid 2202:tid 140389360895744] [client 127.0.0.1:54654] Traceback (most recent call last):
+[Tue Aug 08 10:15:28.069844 2017] [wsgi:error] [pid 2202:tid 140389360895744] [client 127.0.0.1:54654]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:15:28.069904 2017] [wsgi:error] [pid 2202:tid 140389360895744] [client 127.0.0.1:54654]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:15:28.069925 2017] [wsgi:error] [pid 2202:tid 140389360895744] [client 127.0.0.1:54654] ImportError: No module named sitioweb
+[Tue Aug 08 10:15:28.513904 2017] [wsgi:error] [pid 2202:tid 140389352503040] [client 127.0.0.1:54656] mod_wsgi (pid=2202): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:15:28.513947 2017] [wsgi:error] [pid 2202:tid 140389352503040] [client 127.0.0.1:54656] mod_wsgi (pid=2202): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:15:28.513987 2017] [wsgi:error] [pid 2202:tid 140389352503040] [client 127.0.0.1:54656] Traceback (most recent call last):
+[Tue Aug 08 10:15:28.514031 2017] [wsgi:error] [pid 2202:tid 140389352503040] [client 127.0.0.1:54656]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:15:28.514088 2017] [wsgi:error] [pid 2202:tid 140389352503040] [client 127.0.0.1:54656]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:15:28.514127 2017] [wsgi:error] [pid 2202:tid 140389352503040] [client 127.0.0.1:54656] ImportError: No module named sitioweb
+[Tue Aug 08 10:15:37.653751 2017] [wsgi:error] [pid 2202:tid 140389344110336] [client 127.0.0.1:54658] mod_wsgi (pid=2202): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:15:37.653814 2017] [wsgi:error] [pid 2202:tid 140389344110336] [client 127.0.0.1:54658] mod_wsgi (pid=2202): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:15:37.653862 2017] [wsgi:error] [pid 2202:tid 140389344110336] [client 127.0.0.1:54658] Traceback (most recent call last):
+[Tue Aug 08 10:15:37.653906 2017] [wsgi:error] [pid 2202:tid 140389344110336] [client 127.0.0.1:54658]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:15:37.654073 2017] [wsgi:error] [pid 2202:tid 140389344110336] [client 127.0.0.1:54658]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:15:37.654120 2017] [wsgi:error] [pid 2202:tid 140389344110336] [client 127.0.0.1:54658] ImportError: No module named sitioweb
+[Tue Aug 08 10:20:29.386314 2017] [wsgi:error] [pid 2202:tid 140389260457728] [client 127.0.0.1:54660] mod_wsgi (pid=2202): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:20:29.386371 2017] [wsgi:error] [pid 2202:tid 140389260457728] [client 127.0.0.1:54660] mod_wsgi (pid=2202): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:20:29.386415 2017] [wsgi:error] [pid 2202:tid 140389260457728] [client 127.0.0.1:54660] Traceback (most recent call last):
+[Tue Aug 08 10:20:29.386457 2017] [wsgi:error] [pid 2202:tid 140389260457728] [client 127.0.0.1:54660]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:20:29.386516 2017] [wsgi:error] [pid 2202:tid 140389260457728] [client 127.0.0.1:54660]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:20:29.386560 2017] [wsgi:error] [pid 2202:tid 140389260457728] [client 127.0.0.1:54660] ImportError: No module named sitioweb
+[Tue Aug 08 10:21:52.209286 2017] [wsgi:error] [pid 3177:tid 140389360895744] [client 127.0.0.1:54662] mod_wsgi (pid=3177): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:21:52.209371 2017] [wsgi:error] [pid 3177:tid 140389360895744] [client 127.0.0.1:54662] mod_wsgi (pid=3177): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:21:52.209423 2017] [wsgi:error] [pid 3177:tid 140389360895744] [client 127.0.0.1:54662] Traceback (most recent call last):
+[Tue Aug 08 10:21:52.209464 2017] [wsgi:error] [pid 3177:tid 140389360895744] [client 127.0.0.1:54662]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:21:52.209548 2017] [wsgi:error] [pid 3177:tid 140389360895744] [client 127.0.0.1:54662]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:21:52.209577 2017] [wsgi:error] [pid 3177:tid 140389360895744] [client 127.0.0.1:54662] ImportError: No module named sitioweb
+[Tue Aug 08 10:21:53.990264 2017] [wsgi:error] [pid 3177:tid 140389352503040] [client 127.0.0.1:54664] mod_wsgi (pid=3177): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:21:53.990346 2017] [wsgi:error] [pid 3177:tid 140389352503040] [client 127.0.0.1:54664] mod_wsgi (pid=3177): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:21:53.990420 2017] [wsgi:error] [pid 3177:tid 140389352503040] [client 127.0.0.1:54664] Traceback (most recent call last):
+[Tue Aug 08 10:21:53.990478 2017] [wsgi:error] [pid 3177:tid 140389352503040] [client 127.0.0.1:54664]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:21:53.990558 2017] [wsgi:error] [pid 3177:tid 140389352503040] [client 127.0.0.1:54664]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:21:53.990614 2017] [wsgi:error] [pid 3177:tid 140389352503040] [client 127.0.0.1:54664] ImportError: No module named sitioweb
+[Tue Aug 08 10:23:09.002356 2017] [wsgi:error] [pid 3297:tid 140389360895744] [client 127.0.0.1:54666] mod_wsgi (pid=3297): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:23:09.002424 2017] [wsgi:error] [pid 3297:tid 140389360895744] [client 127.0.0.1:54666] mod_wsgi (pid=3297): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:23:09.002451 2017] [wsgi:error] [pid 3297:tid 140389360895744] [client 127.0.0.1:54666] Traceback (most recent call last):
+[Tue Aug 08 10:23:09.002483 2017] [wsgi:error] [pid 3297:tid 140389360895744] [client 127.0.0.1:54666]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:23:09.002571 2017] [wsgi:error] [pid 3297:tid 140389360895744] [client 127.0.0.1:54666]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:23:09.002602 2017] [wsgi:error] [pid 3297:tid 140389360895744] [client 127.0.0.1:54666] ImportError: No module named sitioweb
+[Tue Aug 08 10:23:11.249649 2017] [wsgi:error] [pid 3298:tid 140389360895744] [client 127.0.0.1:54668] mod_wsgi (pid=3298): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:23:11.249723 2017] [wsgi:error] [pid 3298:tid 140389360895744] [client 127.0.0.1:54668] mod_wsgi (pid=3298): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:23:11.249763 2017] [wsgi:error] [pid 3298:tid 140389360895744] [client 127.0.0.1:54668] Traceback (most recent call last):
+[Tue Aug 08 10:23:11.249808 2017] [wsgi:error] [pid 3298:tid 140389360895744] [client 127.0.0.1:54668]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:23:11.249933 2017] [wsgi:error] [pid 3298:tid 140389360895744] [client 127.0.0.1:54668]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:23:11.249979 2017] [wsgi:error] [pid 3298:tid 140389360895744] [client 127.0.0.1:54668] ImportError: No module named sitioweb
+[Tue Aug 08 10:23:17.644800 2017] [wsgi:error] [pid 3297:tid 140389352503040] [client 127.0.0.1:54670] mod_wsgi (pid=3297): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:23:17.644875 2017] [wsgi:error] [pid 3297:tid 140389352503040] [client 127.0.0.1:54670] mod_wsgi (pid=3297): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:23:17.644930 2017] [wsgi:error] [pid 3297:tid 140389352503040] [client 127.0.0.1:54670] Traceback (most recent call last):
+[Tue Aug 08 10:23:17.644993 2017] [wsgi:error] [pid 3297:tid 140389352503040] [client 127.0.0.1:54670]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:23:17.645069 2017] [wsgi:error] [pid 3297:tid 140389352503040] [client 127.0.0.1:54670]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:23:17.645123 2017] [wsgi:error] [pid 3297:tid 140389352503040] [client 127.0.0.1:54670] ImportError: No module named sitioweb
+[Tue Aug 08 10:23:19.639767 2017] [wsgi:error] [pid 3297:tid 140389344110336] [client 127.0.0.1:54672] mod_wsgi (pid=3297): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:23:19.639836 2017] [wsgi:error] [pid 3297:tid 140389344110336] [client 127.0.0.1:54672] mod_wsgi (pid=3297): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:23:19.639885 2017] [wsgi:error] [pid 3297:tid 140389344110336] [client 127.0.0.1:54672] Traceback (most recent call last):
+[Tue Aug 08 10:23:19.639932 2017] [wsgi:error] [pid 3297:tid 140389344110336] [client 127.0.0.1:54672]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:23:19.640000 2017] [wsgi:error] [pid 3297:tid 140389344110336] [client 127.0.0.1:54672]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:23:19.640048 2017] [wsgi:error] [pid 3297:tid 140389344110336] [client 127.0.0.1:54672] ImportError: No module named sitioweb
+[Tue Aug 08 10:26:39.704812 2017] [wsgi:error] [pid 3298:tid 140389352503040] [client 127.0.0.1:54804] mod_wsgi (pid=3298): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:26:39.704873 2017] [wsgi:error] [pid 3298:tid 140389352503040] [client 127.0.0.1:54804] mod_wsgi (pid=3298): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:26:39.704910 2017] [wsgi:error] [pid 3298:tid 140389352503040] [client 127.0.0.1:54804] Traceback (most recent call last):
+[Tue Aug 08 10:26:39.704946 2017] [wsgi:error] [pid 3298:tid 140389352503040] [client 127.0.0.1:54804]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:26:39.704996 2017] [wsgi:error] [pid 3298:tid 140389352503040] [client 127.0.0.1:54804]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:26:39.705030 2017] [wsgi:error] [pid 3298:tid 140389352503040] [client 127.0.0.1:54804] ImportError: No module named sitioweb
+[Tue Aug 08 10:26:42.505787 2017] [wsgi:error] [pid 3297:tid 140389260457728] [client 127.0.0.1:54806] mod_wsgi (pid=3297): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:26:42.505847 2017] [wsgi:error] [pid 3297:tid 140389260457728] [client 127.0.0.1:54806] mod_wsgi (pid=3297): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:26:42.505893 2017] [wsgi:error] [pid 3297:tid 140389260457728] [client 127.0.0.1:54806] Traceback (most recent call last):
+[Tue Aug 08 10:26:42.505938 2017] [wsgi:error] [pid 3297:tid 140389260457728] [client 127.0.0.1:54806]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:26:42.506000 2017] [wsgi:error] [pid 3297:tid 140389260457728] [client 127.0.0.1:54806]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:26:42.506044 2017] [wsgi:error] [pid 3297:tid 140389260457728] [client 127.0.0.1:54806] ImportError: No module named sitioweb
+[Tue Aug 08 10:26:57.973947 2017] [wsgi:error] [pid 3297:tid 140389252065024] [client 127.0.0.1:54812] mod_wsgi (pid=3297): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:26:57.973986 2017] [wsgi:error] [pid 3297:tid 140389252065024] [client 127.0.0.1:54812] mod_wsgi (pid=3297): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:26:57.974008 2017] [wsgi:error] [pid 3297:tid 140389252065024] [client 127.0.0.1:54812] Traceback (most recent call last):
+[Tue Aug 08 10:26:57.974029 2017] [wsgi:error] [pid 3297:tid 140389252065024] [client 127.0.0.1:54812]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:26:57.974060 2017] [wsgi:error] [pid 3297:tid 140389252065024] [client 127.0.0.1:54812]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:26:57.974081 2017] [wsgi:error] [pid 3297:tid 140389252065024] [client 127.0.0.1:54812] ImportError: No module named sitioweb
+[Tue Aug 08 10:27:33.225009 2017] [wsgi:error] [pid 3297:tid 140389243672320] [client 127.0.0.1:54814] mod_wsgi (pid=3297): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:27:33.225057 2017] [wsgi:error] [pid 3297:tid 140389243672320] [client 127.0.0.1:54814] mod_wsgi (pid=3297): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:27:33.225090 2017] [wsgi:error] [pid 3297:tid 140389243672320] [client 127.0.0.1:54814] Traceback (most recent call last):
+[Tue Aug 08 10:27:33.225121 2017] [wsgi:error] [pid 3297:tid 140389243672320] [client 127.0.0.1:54814]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:27:33.225167 2017] [wsgi:error] [pid 3297:tid 140389243672320] [client 127.0.0.1:54814]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:27:33.225198 2017] [wsgi:error] [pid 3297:tid 140389243672320] [client 127.0.0.1:54814] ImportError: No module named sitioweb
+[Tue Aug 08 10:27:37.775028 2017] [wsgi:error] [pid 3297:tid 140389235279616] [client 127.0.0.1:54816] mod_wsgi (pid=3297): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:27:37.775102 2017] [wsgi:error] [pid 3297:tid 140389235279616] [client 127.0.0.1:54816] mod_wsgi (pid=3297): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:27:37.775156 2017] [wsgi:error] [pid 3297:tid 140389235279616] [client 127.0.0.1:54816] Traceback (most recent call last):
+[Tue Aug 08 10:27:37.775206 2017] [wsgi:error] [pid 3297:tid 140389235279616] [client 127.0.0.1:54816]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:27:37.775281 2017] [wsgi:error] [pid 3297:tid 140389235279616] [client 127.0.0.1:54816]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:27:37.775330 2017] [wsgi:error] [pid 3297:tid 140389235279616] [client 127.0.0.1:54816] ImportError: No module named sitioweb
+[Tue Aug 08 10:28:37.982187 2017] [wsgi:error] [pid 3297:tid 140389226886912] [client 127.0.0.1:54822] mod_wsgi (pid=3297): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:28:37.982235 2017] [wsgi:error] [pid 3297:tid 140389226886912] [client 127.0.0.1:54822] mod_wsgi (pid=3297): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:28:37.982269 2017] [wsgi:error] [pid 3297:tid 140389226886912] [client 127.0.0.1:54822] Traceback (most recent call last):
+[Tue Aug 08 10:28:37.982300 2017] [wsgi:error] [pid 3297:tid 140389226886912] [client 127.0.0.1:54822]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:28:37.982344 2017] [wsgi:error] [pid 3297:tid 140389226886912] [client 127.0.0.1:54822]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:28:37.982385 2017] [wsgi:error] [pid 3297:tid 140389226886912] [client 127.0.0.1:54822] ImportError: No module named sitioweb
+[Tue Aug 08 10:29:53.716915 2017] [wsgi:error] [pid 3297:tid 140389218494208] [client 127.0.0.1:54828] mod_wsgi (pid=3297): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:29:53.716996 2017] [wsgi:error] [pid 3297:tid 140389218494208] [client 127.0.0.1:54828] mod_wsgi (pid=3297): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:29:53.717051 2017] [wsgi:error] [pid 3297:tid 140389218494208] [client 127.0.0.1:54828] Traceback (most recent call last):
+[Tue Aug 08 10:29:53.717102 2017] [wsgi:error] [pid 3297:tid 140389218494208] [client 127.0.0.1:54828]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:29:53.717177 2017] [wsgi:error] [pid 3297:tid 140389218494208] [client 127.0.0.1:54828]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:29:53.717232 2017] [wsgi:error] [pid 3297:tid 140389218494208] [client 127.0.0.1:54828] ImportError: No module named sitioweb
+[Tue Aug 08 10:30:12.301264 2017] [wsgi:error] [pid 3297:tid 140389210101504] [client 127.0.0.1:54830] mod_wsgi (pid=3297): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:30:12.301331 2017] [wsgi:error] [pid 3297:tid 140389210101504] [client 127.0.0.1:54830] mod_wsgi (pid=3297): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:30:12.301372 2017] [wsgi:error] [pid 3297:tid 140389210101504] [client 127.0.0.1:54830] Traceback (most recent call last):
+[Tue Aug 08 10:30:12.301448 2017] [wsgi:error] [pid 3297:tid 140389210101504] [client 127.0.0.1:54830]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:30:12.301511 2017] [wsgi:error] [pid 3297:tid 140389210101504] [client 127.0.0.1:54830]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:30:12.301553 2017] [wsgi:error] [pid 3297:tid 140389210101504] [client 127.0.0.1:54830] ImportError: No module named sitioweb
+[Tue Aug 08 10:34:24.302658 2017] [wsgi:error] [pid 2267:tid 140363890501376] [client 127.0.0.1:38366] mod_wsgi (pid=2267): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:34:24.321071 2017] [wsgi:error] [pid 2267:tid 140363890501376] [client 127.0.0.1:38366] mod_wsgi (pid=2267): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:34:24.321127 2017] [wsgi:error] [pid 2267:tid 140363890501376] [client 127.0.0.1:38366] Traceback (most recent call last):
+[Tue Aug 08 10:34:24.321155 2017] [wsgi:error] [pid 2267:tid 140363890501376] [client 127.0.0.1:38366]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:34:24.321251 2017] [wsgi:error] [pid 2267:tid 140363890501376] [client 127.0.0.1:38366]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:34:24.321276 2017] [wsgi:error] [pid 2267:tid 140363890501376] [client 127.0.0.1:38366] ImportError: No module named sitioweb
+[Tue Aug 08 10:34:24.789070 2017] [wsgi:error] [pid 2268:tid 140363873715968] [client 127.0.0.1:38368] mod_wsgi (pid=2268): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:34:24.789154 2017] [wsgi:error] [pid 2268:tid 140363873715968] [client 127.0.0.1:38368] mod_wsgi (pid=2268): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:34:24.789184 2017] [wsgi:error] [pid 2268:tid 140363873715968] [client 127.0.0.1:38368] Traceback (most recent call last):
+[Tue Aug 08 10:34:24.789216 2017] [wsgi:error] [pid 2268:tid 140363873715968] [client 127.0.0.1:38368]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:34:24.789301 2017] [wsgi:error] [pid 2268:tid 140363873715968] [client 127.0.0.1:38368]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:34:24.789347 2017] [wsgi:error] [pid 2268:tid 140363873715968] [client 127.0.0.1:38368] ImportError: No module named sitioweb
+[Tue Aug 08 10:34:30.694521 2017] [wsgi:error] [pid 2267:tid 140363882108672] [client 127.0.0.1:38372] mod_wsgi (pid=2267): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:34:30.694566 2017] [wsgi:error] [pid 2267:tid 140363882108672] [client 127.0.0.1:38372] mod_wsgi (pid=2267): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:34:30.694596 2017] [wsgi:error] [pid 2267:tid 140363882108672] [client 127.0.0.1:38372] Traceback (most recent call last):
+[Tue Aug 08 10:34:30.694624 2017] [wsgi:error] [pid 2267:tid 140363882108672] [client 127.0.0.1:38372]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:34:30.694665 2017] [wsgi:error] [pid 2267:tid 140363882108672] [client 127.0.0.1:38372]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:34:30.694692 2017] [wsgi:error] [pid 2267:tid 140363882108672] [client 127.0.0.1:38372] ImportError: No module named sitioweb
+[Tue Aug 08 10:34:35.759214 2017] [wsgi:error] [pid 2267:tid 140363856930560] [client 127.0.0.1:38374] mod_wsgi (pid=2267): Target WSGI script '/home/gelder/python-web/app/controller.py' cannot be loaded as Python module.
+[Tue Aug 08 10:34:35.759258 2017] [wsgi:error] [pid 2267:tid 140363856930560] [client 127.0.0.1:38374] mod_wsgi (pid=2267): Exception occurred processing WSGI script '/home/gelder/python-web/app/controller.py'.
+[Tue Aug 08 10:34:35.759288 2017] [wsgi:error] [pid 2267:tid 140363856930560] [client 127.0.0.1:38374] Traceback (most recent call last):
+[Tue Aug 08 10:34:35.759317 2017] [wsgi:error] [pid 2267:tid 140363856930560] [client 127.0.0.1:38374]   File "/home/gelder/python-web/app/controller.py", line 6, in <module>
+[Tue Aug 08 10:34:35.759357 2017] [wsgi:error] [pid 2267:tid 140363856930560] [client 127.0.0.1:38374]     from sitioweb import contacto, ejemplos
+[Tue Aug 08 10:34:35.759383 2017] [wsgi:error] [pid 2267:tid 140363856930560] [client 127.0.0.1:38374] ImportError: No module named sitioweb

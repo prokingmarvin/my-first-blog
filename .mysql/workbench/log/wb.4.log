@@ -1,0 +1,44 @@
+10:55:00 [INF][      WBContext]: Parsing application arguments.
+10:55:00 [INF][      WBContext]:     /usr/lib/mysql-workbench/mysql-workbench-bin
+10:55:00 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: /usr/share/mysql-workbench
+	plugin path: /usr/lib/mysql-workbench/plugins
+	struct path: /usr/share/mysql-workbench/grt
+	module path: /usr/lib/mysql-workbench/modules
+	library path: /usr/share/mysql-workbench/libraries
+	user data dir: /home/proking/.mysql/workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+10:55:00 [INF][      WBContext]: WbContext::init
+10:55:01 [INF][            WBA]: Looking for extension modules for WBA...
+10:55:01 [INF][            WBA]: 0 extension modules found
+10:55:01 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Linux/Unix version 6.0.8  revision 11354 build 833
+	Configuration Directory: /home/proking/.mysql/workbench
+	Data Directory: /usr/share/mysql-workbench
+	Cairo Version: 1.13.1
+	OS: Linux 3.19.0-25-generic
+	CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz 2394.458 MHz, 2.8 GB RAM
+	Distribution: Ubuntu 14.04.3 LTS
+
+
+10:55:57 [INF][     SSH tunnel]: Starting tunnel
+10:56:25 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: NO)Initializing autocompletion cache for Conexion
+10:56:26 [ERR][   mforms.linux]: Passed MenuItem 'Don't Limit' does not have CheckMenuItem at 0x2539870
+10:56:26 [ERR][   mforms.linux]: Passed MenuItem '10' does not have CheckMenuItem at 0x2774db0
+10:56:26 [ERR][   mforms.linux]: Passed MenuItem '50' does not have CheckMenuItem at 0x2782cc0
+10:56:26 [ERR][   mforms.linux]: Passed MenuItem '100' does not have CheckMenuItem at 0x27dc060
+10:56:26 [ERR][   mforms.linux]: Passed MenuItem '200' does not have CheckMenuItem at 0x27bbfa0
+10:56:26 [ERR][   mforms.linux]: Passed MenuItem '300' does not have CheckMenuItem at 0x27704b0
+10:56:26 [ERR][   mforms.linux]: Passed MenuItem '400' does not have CheckMenuItem at 0x2781fe0
+10:56:26 [ERR][   mforms.linux]: Passed MenuItem '500' does not have CheckMenuItem at 0x27b2590
+10:56:26 [ERR][   mforms.linux]: Passed MenuItem '1000' does not have CheckMenuItem at 0x27c2250
+10:56:26 [ERR][   mforms.linux]: Passed MenuItem '2000' does not have CheckMenuItem at 0x2782c40
+10:56:26 [ERR][   mforms.linux]: Passed MenuItem '5000' does not have CheckMenuItem at 0x27c98e0
+10:56:26 [ERR][   mforms.linux]: Passed MenuItem '10000' does not have CheckMenuItem at 0x27e0a00
+10:56:26 [ERR][   mforms.linux]: Passed MenuItem '50000' does not have CheckMenuItem at 0x27e1c00

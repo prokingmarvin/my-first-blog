@@ -1,0 +1,30 @@
+10:51:23 [INF][      WBContext]: Parsing application arguments.
+10:51:23 [INF][      WBContext]:     /usr/lib/mysql-workbench/mysql-workbench-bin
+10:51:24 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: /usr/share/mysql-workbench
+	plugin path: /usr/lib/mysql-workbench/plugins
+	struct path: /usr/share/mysql-workbench/grt
+	module path: /usr/lib/mysql-workbench/modules
+	library path: /usr/share/mysql-workbench/libraries
+	user data dir: /home/proking/.mysql/workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+10:51:24 [INF][      WBContext]: WbContext::init
+10:51:28 [INF][            WBA]: Looking for extension modules for WBA...
+10:51:28 [INF][            WBA]: 0 extension modules found
+10:51:29 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Linux/Unix version 6.0.8  revision 11354 build 833
+	Configuration Directory: /home/proking/.mysql/workbench
+	Data Directory: /usr/share/mysql-workbench
+	Cairo Version: 1.13.1
+	OS: Linux 3.19.0-25-generic
+	CPU: Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz 2394.458 MHz, 2.8 GB RAM
+	Distribution: Ubuntu 14.04.3 LTS
+
+
+10:51:29 [INF][               ]: /usr/share/mysql-workbench/extras
