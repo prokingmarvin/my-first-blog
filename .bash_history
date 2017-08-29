@@ -135,3 +135,17 @@ clear
 sudo apt-get install python3-venv
 sudo apt-get update
 python3 -m venv myvenv
+sudo apt-get update
+sudo apt-get install git
+git init
+git config user.name prokingmarvin
+git config user.email prokingmarvin@hotmail.com
+git status
+nano .gitignore
+git status
+nano .gitignore
+git status
+git add --all .
+git commit -m "Mi app Django Girls, primer commit"
+git remote add origin https://github.com/prokingmarvin/my-first-blog.git
+git push -u origin master

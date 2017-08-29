@@ -1,4 +1,10 @@
 
-(unity-panel-service:1960): Indicator-Appmenu-WARNING **: Already have a menu for window ID 77594625 with path /com/canonical/menu/4A00001 from :1.96, unregistering that one
+(unity-panel-service:1983): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
 
-(unity-panel-service:1960): LIBDBUSMENU-GLIB-WARNING **: Getting layout failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No existe tal interfaz «com.canonical.dbusmenu» en ruta de objeto /com/canonical/menu/4A00044
+(unity-panel-service:1983): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:1983): Indicator-Appmenu-WARNING **: Already have a menu for window ID 69206195 with path /com/canonical/menu/42000B3 from :1.77, unregistering that one
+
+(unity-panel-service:1983): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:1983): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed

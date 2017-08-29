@@ -1,3 +1,14 @@
 Script para ibus iniciada en run_im.
 Script para auto iniciada en run_im.
 Script para default iniciada en run_im.
+init: unity-settings-daemon main proceso terminado, reiniciando
+init: indicator-bluetooth main proceso (2093) interumpido por la señal TERM
+init: indicator-power main proceso (2098) interumpido por la señal TERM
+init: indicator-datetime main proceso (2099) interumpido por la señal TERM
+init: indicator-printers main proceso (2102) interumpido por la señal TERM
+init: indicator-session main proceso (2103) interumpido por la señal TERM
+init: unity-settings-daemon main proceso (4066) interumpido por la señal TERM
+init: indicator-application main proceso (2104) interumpido por la señal TERM
+init: unity-panel-service main proceso (1960) terminó con estatus 1
+init: gnome-session (Unity) main proceso (1956) terminó con estatus 1
+init: Disconnected from notified D-Bus bus
